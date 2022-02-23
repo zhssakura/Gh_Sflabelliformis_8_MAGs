@@ -3,15 +3,25 @@
 
 
 Gam1: Candidatus Spongiicolonus versatilis
+
 Gam2: Candidatus Spongiihabitans thiooxidans
+
 Gam3: Candidatus Oxydemutator thiolithooxidans
+
 Gam4: Candidatus Azotimanducus chitobiosivorans, 
+
 Gam5: Candidatus Foliamicus numerosus, 
+
 Gam6: Candidatus Poriferihabitans thioversatilis, 
+
 Gam7: Candidatus Azotimanducus thioimbibens, 
+
 Gam8: Candidatus Spongiifermentum lactens, 
+
 Pefi11: Candidatus Rariloculus versatilis, 
+
 Pefi11: Candidatus Azophilus lithoversatilis
+
 GCA_001543005.1_ASM154300v1_genomic: Candidatus Spongiihabitans thiooxidans
 
 OTU01_STY1_bin_1	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA10353;f__UBA5680;g__;s__ or Candidatus Spongiicolonus versatilis
