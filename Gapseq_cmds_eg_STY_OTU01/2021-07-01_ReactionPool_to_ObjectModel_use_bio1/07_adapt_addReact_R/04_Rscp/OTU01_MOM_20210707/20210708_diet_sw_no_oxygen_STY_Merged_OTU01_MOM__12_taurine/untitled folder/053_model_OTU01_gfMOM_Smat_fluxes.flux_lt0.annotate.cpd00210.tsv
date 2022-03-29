@@ -1,0 +1,6 @@
+		sol$fluxes	cpd00210[c0]	cpd00210[e0]
+		met_name	Taurine[c0]	Taurine[e0]
+rxn01233_c0	taurine:2-oxoglutarate aminotransferase	1000	-1	0
+rxn03924_c0	taurine:pyruvate aminotransferase	-900	-1	0
+rxn05172_c0	ATP phosphohydrolase (taurine-importing)	100	1	-1
+EX_cpd00210_e0	Exchange of Taurine	-100	0	-1

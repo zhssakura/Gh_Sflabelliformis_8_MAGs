@@ -1,0 +1,52 @@
+Pathway_id	Pathway_name	EC_num
+PWY-5274	sulfide oxidation II (flavocytochrome c)	1.8.2.3
+PWY-7927	sulfide oxidation IV (mitochondria)	1.8.3.1
+PWY-7927	sulfide oxidation IV (mitochondria)	1.8.5.8
+PWY-7927	sulfide oxidation IV (mitochondria)	2.8.1.1
+PWY-7927	sulfide oxidation IV (mitochondria)	1.13.11.18
+PWY-7927	sulfide oxidation IV (mitochondria)	1.13.11.18
+SULFUROX-PWY	sulfur oxidation I (aerobic)	1.13.11.18
+SULFUROX-PWY	sulfur oxidation I (aerobic)	
+SULFUROX-PWY	sulfur oxidation I (aerobic)	1.13.11.18
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	1.8.99.5
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	1.8.99.5
+PWY-5326	sulfite oxidation IV	1.8.3.1
+PWY-5276	sulfite oxidation I	1.8.2.1
+PWY-7457	sulfite oxidation V (SoeABC)	1.8.5.6
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	2.8.5.2
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	3.1.6.20
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	2.8.5.2
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	3.1.6.20
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	1.8.2.6
+P23-PWY	reductive TCA cycle I	4.2.1.2
+P23-PWY	reductive TCA cycle I	6.2.1.5
+P23-PWY	reductive TCA cycle I	1.2.7.3
+P23-PWY	reductive TCA cycle I	4.2.1.3
+P23-PWY	reductive TCA cycle I	4.2.1.3
+P23-PWY	reductive TCA cycle I	2.3.3.8
+P23-PWY	reductive TCA cycle I	1.2.7.1
+P23-PWY	reductive TCA cycle I	2.7.9.2
+P23-PWY	reductive TCA cycle I	4.1.1.31
+P23-PWY	reductive TCA cycle I	1.1.1.42
+P23-PWY	reductive TCA cycle I	1.1.1.37
+P23-PWY	reductive TCA cycle I	1.3.5.4
+PWY-5392	reductive TCA cycle II	4.2.1.2
+PWY-5392	reductive TCA cycle II	6.2.1.5
+PWY-5392	reductive TCA cycle II	1.2.7.3
+PWY-5392	reductive TCA cycle II	4.2.1.3
+PWY-5392	reductive TCA cycle II	4.2.1.3
+PWY-5392	reductive TCA cycle II	1.2.7.1
+PWY-5392	reductive TCA cycle II	6.2.1.18
+PWY-5392	reductive TCA cycle II	4.1.3.34
+PWY-5392	reductive TCA cycle II	6.4.1.7
+PWY-5392	reductive TCA cycle II	1.1.1
+PWY-5392	reductive TCA cycle II	1.1.1.37
+PWY-5392	reductive TCA cycle II	1.3.5.4
+PWY-1263	taurine degradation I	2.6.1.77
+TAURINEDEG-PWY	taurine degradation III	2.6.1.55

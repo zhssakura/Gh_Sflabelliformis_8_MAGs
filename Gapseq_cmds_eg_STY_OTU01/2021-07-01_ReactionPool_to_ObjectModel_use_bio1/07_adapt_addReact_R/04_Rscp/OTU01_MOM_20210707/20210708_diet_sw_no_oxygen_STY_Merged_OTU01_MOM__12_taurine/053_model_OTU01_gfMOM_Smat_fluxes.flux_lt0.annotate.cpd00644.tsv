@@ -1,0 +1,4 @@
+		sol$fluxes	cpd00644[c0]
+		met_name	Pantothenic acid[c0]
+rxn01791_c0	(R)-Pantoate:beta-alanine ligase (AMP-forming)	0.00245894301699604	1
+rxn12510_c0	ATP:pantothenate 4'-phosphotransferase	0.00245894301699604	-1

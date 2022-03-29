@@ -1,0 +1,4 @@
+		sol$fluxes	cpd00075[c0]	cpd00075[e0]
+		met_name	Nitrite[c0]	Nitrite[e0]
+rxn05625_c0	nitrite transport in via proton symport, reversible	1000	1	-1
+rxn08998_c0	nitrite transport in via proton symport, reversible (periplasm)	-1000	1	-1

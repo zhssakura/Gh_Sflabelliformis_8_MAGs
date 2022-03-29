@@ -1,0 +1,10 @@
+		sol$fluxes	cpd00007[c0]	cpd00007[e0]
+		met_name	O2[c0]	O2[e0]
+rxn00056_c0	Fe(II):oxygen oxidoreductase	0.000568084232630683	-1	0
+rxn00058_c0	Ferrocytochrome-c:oxygen oxidoreductase	36.5023110621346	-1	0
+rxn00962_c0	4-hydroxybenzoate,NADPH:oxygen oxidoreductase (3-hydroxylating)	6.52836012188355e-14	-1	0
+rxn02303_c0	Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)	0.00122947150849555	-1	0
+rxn07654_c0	R07864	1.59161572810262e-12	-1	0
+rxn05468_c0	TRANS-RXNAVI-26568.ce	36.5053380893858	1	-1
+EX_cpd00007_e0	Exchange of O2	-36.5053380893858	0	-1
+rxn23045_c0	glycine oxidase	0.00122947150849801	-1	0

@@ -1,0 +1,22 @@
+		sol$fluxes	cpd00013[c0]	cpd00013[e0]
+		met_name	Ammonium[c0]	Ammonium[e0]
+rxn00060_c0	porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing)	0.002458943016996	4	0
+rxn00114_c0	ATP:carbamate phosphotransferase	0.184948388940143	-1	0
+rxn00138_c0	deamido-NAD+:ammonia ligase (AMP-forming)	0.00245894301701077	-1	0
+rxn00182_c0	L-glutamate:NAD+ oxidoreductase (deaminating)	-1000	1	0
+rxn00184_c0	L-Glutamate:NADP+ oxidoreductase (deaminating)	1000	1	0
+rxn00340_c0	L-aspartate:ammonia ligase (AMP-forming)	0.0712837085089664	-1	0
+rxn00347_c0	L-Aspartate ammonia-lyase	99.0084389616876	1	0
+rxn00410_c0	UTP:ammonia ligase (ADP-forming)	0.0472900011895329	-1	0
+rxn00726_c0	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)	0.0168092587750401	-1	0
+rxn00737_c0	L-threonine ammonia-lyase (2-oxobutanoate-forming)	0.0859139892945677	1	0
+rxn00804_c0	L-leucine:NAD+ oxidoreductase (deaminating)	-1000	1	0
+rxn00916_c0	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)	0.0774412044716164	-1	0
+rxn01045_c0	L-Valine:NAD+ oxidoreductase(deaminating)	-0.125135593103096	1	0
+rxn01573_c0	L-Isoleucine:NAD+ oxidoreductase(deaminating)	998.28013139164	1	0
+rxn02475_c0	2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase	0.002458943016996	1	0
+rxn05466_c0	TRANS-RXN-173.ce	-96.775497970405	1	-1
+rxn09519_c0	alpha-Aminopropiononitrile aminohydrolase	-1000	1	0
+rxn09896_c0	isoleucine dehydrogenase	-0.0859139892945677	1	0
+rxn15410_c0	alpha-Aminopropiononitrile aminohydrolase	1000	1	0
+EX_cpd00013_e0	Exchange of Ammonium	96.775497970405	0	-1

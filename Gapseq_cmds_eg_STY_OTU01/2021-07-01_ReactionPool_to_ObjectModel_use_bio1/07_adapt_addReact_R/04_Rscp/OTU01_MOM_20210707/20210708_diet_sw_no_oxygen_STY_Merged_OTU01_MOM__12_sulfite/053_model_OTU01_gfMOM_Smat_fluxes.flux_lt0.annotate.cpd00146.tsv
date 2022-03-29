@@ -1,0 +1,7 @@
+		sol$fluxes	cpd00146[c0]
+		met_name	Carbamoylphosphate[c0]
+rxn00114_c0	ATP:carbamate phosphotransferase	1000	1
+rxn01018_c0	carbamoyl-phosphate:L-aspartate carbamoyltransferase	0.0847362082344034	-1
+rxn01019_c0	Carbamoyl-phosphate:L-ornithine carbamoyltransferase	1000	-1
+rxn05012_c0	carbamoyl-phosphate:N2-acetyl-L-ornithine carbamoyltransferase	-999.923963240788	-1
+rxn37674_c0	CARBAMATE-KINASE-RXN.d	-999.839227032554	1

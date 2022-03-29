@@ -1,0 +1,4 @@
+		sol$fluxes	cpd00027[c0]	cpd00027[e0]
+		met_name	D-Glucose[c0]	D-Glucose[e0]
+rxn00218_c0	D-Glucose:NADP+ 1-oxidoreductase	1000	-1	0
+rxn02382_c0	1-O-Sinapoyl-beta-D-glucose:(S)-malate O-sinapoyltransferase	1000	1	0

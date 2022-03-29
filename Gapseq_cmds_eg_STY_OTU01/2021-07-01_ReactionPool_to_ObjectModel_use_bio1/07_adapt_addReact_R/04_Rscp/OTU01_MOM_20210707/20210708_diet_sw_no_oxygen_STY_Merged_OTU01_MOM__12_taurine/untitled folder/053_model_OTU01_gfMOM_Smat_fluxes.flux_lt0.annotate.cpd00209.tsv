@@ -1,0 +1,5 @@
+		sol$fluxes	cpd00209[c0]	cpd00209[e0]	cpd00209[p0]
+		met_name	Nitrate[c0]	Nitrate[e0]	Nitrate[p0]
+rxn05627_c0	nitrate transport in via proton symport	100	1	-1	0
+rxn14173_c0	nitrite:(acceptor) oxidoreductase	-100	1	0	0
+EX_cpd00209_e0	Exchange of Nitrate	-100	0	-1	0

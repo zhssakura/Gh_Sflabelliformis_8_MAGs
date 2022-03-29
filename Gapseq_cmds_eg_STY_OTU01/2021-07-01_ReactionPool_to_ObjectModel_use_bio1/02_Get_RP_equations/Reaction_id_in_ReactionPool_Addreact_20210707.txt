@@ -1,0 +1,5 @@
+Rid	met_id	met_name	met_Scoef	met_comp	react_id	react_name	react_rev	lowbnd	uppbnd	rxn
+rxn14173_Shan	"cpd00001[c0],cpd00075[c0],cpd00109[c0],cpd00067[c0],cpd00110[c0],cpd00209[c0]"	"H2O[c0],Nitrite[c0],Cytochrome c3+[c0],H+[c0],Cytochrome c2+[c0],Nitrate[c0]"	"-1,-1,-2,2,2,1"	"1,1,1,1,1,1"	rxn14173	nitrite:(acceptor) oxidoreductase	TRUE	-1000	0	
+rxn90090_Shan	"cpd00007[c0],cpd00013[c0],cpd15561[c0],cpd00001[c0],cpd00067[c0],cpd00165[c0],cpd15560[c0]"	"O2[c0],NH3[c0],Ubiquinol-8[c0],H2O[c0],H+[c0],Hydroxylamine[c0],Ubiquinone-8[c0]"	"-1,-1,-1,1,1,1,1"	"1,1,1,1,1,1,1"	rxn90090	ammonia monooxygenase	FALSE	0	0	
+rxn40053_Shan	"cpd00001[c0],cpd00109[c0],cpd00165[c0],cpd00067[e0],cpd00075[c0],cpd00110[c0]"	"H2O[c0],Cytochrome c3+[c0],Hydroxylamine[c0],H+[e0],Nitrite[c0],Cytochrome c2+[c0]"	"-1,-4,-1,5,1,4"	"1,1,1,2,1,1"	rxn40053	hydroxylamine dehydrogenase	FALSE	0	0	
+rxn05893_Shan	"cpd00001[c0],cpd00013[c0],cpd11621[c0],cpd00067[c0],cpd00075[c0],cpd11620[c0]"	"H2O[c0],NH3[c0],Oxidizedferredoxin[c0],H+[c0],Nitrite[c0],Reducedferredoxin[c0]"	"-2,-1,-6,8,1,6"	"1,1,1,1,1,1"	rxn05893	Ammonia:ferredoxin oxidoreductase	TRUE	-1000	0	

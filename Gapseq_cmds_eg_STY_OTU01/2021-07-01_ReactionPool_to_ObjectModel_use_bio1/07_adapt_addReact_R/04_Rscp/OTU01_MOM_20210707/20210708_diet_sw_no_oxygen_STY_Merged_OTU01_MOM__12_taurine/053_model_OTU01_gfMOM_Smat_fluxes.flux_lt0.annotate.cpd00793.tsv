@@ -1,0 +1,4 @@
+		sol$fluxes	cpd00793[c0]
+		met_name	Thiamine phosphate[c0]
+rxn00438_c0	ATP:thiamin-phosphate phosphotransferase	0.00122947150849801	-1
+rxn23042_c0	thiamine-phosphate diphosphorylase	0.00122947150849801	1

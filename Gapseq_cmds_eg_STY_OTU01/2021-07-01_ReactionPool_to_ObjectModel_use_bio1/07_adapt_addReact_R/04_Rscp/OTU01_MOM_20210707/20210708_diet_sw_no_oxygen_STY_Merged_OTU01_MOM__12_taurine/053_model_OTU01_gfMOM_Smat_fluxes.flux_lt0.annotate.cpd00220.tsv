@@ -1,0 +1,4 @@
+		sol$fluxes	cpd00220[c0]	cpd00220[e0]
+		met_name	Riboflavin[c0]	Riboflavin[e0]
+rxn00048_c0	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase	0.0024589430170181	1	0
+rxn00392_c0	ATP:riboflavin 5'-phosphotransferase	0.00122947150851554	-1	0

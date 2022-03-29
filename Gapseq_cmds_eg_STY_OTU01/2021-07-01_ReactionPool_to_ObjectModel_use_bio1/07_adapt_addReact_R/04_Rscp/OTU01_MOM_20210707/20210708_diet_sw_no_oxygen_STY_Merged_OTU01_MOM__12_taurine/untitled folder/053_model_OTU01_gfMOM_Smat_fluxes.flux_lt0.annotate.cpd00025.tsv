@@ -1,0 +1,5 @@
+		sol$fluxes	cpd00025[c0]	cpd00025[e0]
+		met_name	Hydrogen peroxide[c0]	Hydrogen peroxide[e0]
+rxn08685_c0	hydrogen peroxide transport via diffusion (external)	0.00122947150850905	-1	1
+EX_cpd00025_e0	Exchange of Hydrogen peroxide	0.00122947150849801	0	-1
+rxn23045_c0	glycine oxidase	0.00122947150849801	1	0

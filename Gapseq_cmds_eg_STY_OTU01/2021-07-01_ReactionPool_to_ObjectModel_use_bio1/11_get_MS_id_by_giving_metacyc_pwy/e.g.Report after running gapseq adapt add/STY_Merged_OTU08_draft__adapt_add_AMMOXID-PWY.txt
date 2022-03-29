@@ -1,0 +1,6 @@
+Loading model files ./STY_Merged_OTU08-draft.RDS 
+            id     id.type       db.rxn                       seed
+1: AMMOXID-PWY metacyc pwy AMONITRO-RXN rxn14010 rxn16361 rxn19165
+2: AMMOXID-PWY metacyc pwy HAONITRO-RXN                           
+[1] "Reactions already in model:  rxn14010"
+[1] "Reactions not in gapseq reaction database:  rxn16361,rxn19165"

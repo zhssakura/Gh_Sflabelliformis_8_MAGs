@@ -1,0 +1,5 @@
+		sol$fluxes	cpd00136[c0]
+		met_name	4-Hydroxybenzoate[c0]
+rxn00957_c0	4-hydroxybenzaldehyde:NAD+ oxidoreductase	1000	1
+rxn00958_c0	4-Hydroxybenzaldehyde:NADP+ oxidoreductase	-1000	1
+rxn00962_c0	4-hydroxybenzoate,NADPH:oxygen oxidoreductase (3-hydroxylating)	6.52836012188355e-14	-1

@@ -1,0 +1,5 @@
+		sol$fluxes	cpd00242[c0]
+		met_name	H2CO3[c0]
+rxn00102_c0	carbonate hydro-lyase (carbon-dioxide-forming)	-4.91218054672049	-1
+rxn00250_c0	Pyruvate:carbon-dioxide ligase (ADP-forming)	4.60207201728713	-1
+rxn06672_c0	biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)	0.310108529433364	-1

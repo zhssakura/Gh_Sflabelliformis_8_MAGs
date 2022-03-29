@@ -1,0 +1,50 @@
+Loading model files ./STY_Merged_OTU08-draft.RDS 
+             id     id.type                        db.rxn
+ 1:    PWY-5789 metacyc pwy                      RXN-8963
+ 2:    PWY-5789 metacyc pwy                      RXN-8974
+ 3:    PWY-5789 metacyc pwy     PROPIONYL-COA-CARBOXY-RXN
+ 4:    PWY-5789 metacyc pwy    METHYLMALONYL-COA-EPIM-RXN
+ 5:    PWY-5789 metacyc pwy     METHYLMALONYL-COA-MUT-RXN
+ 6:    PWY-5789 metacyc pwy                      RXN-6383
+ 7:    PWY-5789 metacyc pwy                      RXN-9087
+ 8:    PWY-5789 metacyc pwy                      RXN-9086
+ 9:    PWY-5789 metacyc pwy ACETYL-COA-ACETYLTRANSFER-RXN
+10:    PWY-5789 metacyc pwy ACETYL-COA-ACETYLTRANSFER-RXN
+11:    PWY-5789 metacyc pwy                      RXN-8891
+12:    PWY-5789 metacyc pwy                      RXN-9092
+13:    PWY-5789 metacyc pwy                      RXN-8890
+14:    PWY-5789 metacyc pwy                     RXN-11662
+15:    PWY-5789 metacyc pwy                     RXN-11667
+16:    PWY-5789 metacyc pwy                     RXN-11002
+17:    PWY-5789 metacyc pwy           BIOTIN-CARBOXYL-RXN
+18:    PWY-5789 metacyc pwy                     RXN0-5055
+19:    PWY-5789 metacyc pwy                     RXN0-5224
+20: AMMOXID-PWY metacyc pwy                  AMONITRO-RXN
+21: AMMOXID-PWY metacyc pwy                  HAONITRO-RXN
+             id     id.type                        db.rxn
+                                                                                                                                                                                                                                                                                                        seed
+ 1:                                                                                                                                                                                                                                                                                                 rxn00532
+ 2:                                                                                                                                                                                                                                                                                                 rxn16149
+ 3:                                                                                                                                                                                                                                                                               rxn01355 rxn14157 rxn26656
+ 4:                                                                                                                                                                                                                                                                                        rxn01996 rxn16825
+ 5:                                                                                                                                                                                                                                                                                                 rxn00602
+ 6:                                                                                                                                                                                                                                                                                                 rxn02181
+ 7:                                                                                                                                                                                                                                                                                                 rxn00668
+ 8:                                                                                                                                                                                                                                                                                                 rxn16146
+ 9:                                              rxn00598 rxn00676 rxn00874 rxn02680 rxn02804 rxn03243 rxn03248 rxn03288 rxn03796 rxn05831 rxn06510 rxn07681 rxn07685 rxn07689 rxn07727 rxn07743 rxn07880 rxn07884 rxn08767 rxn16680 rxn19961 rxn21062 rxn21063 rxn21064 rxn21573 rxn23126 rxn31685 rxn32881
+10:                                                                                                                                                                                                                                                                               rxn00178 rxn00874 rxn23003
+11:                                                                                                                                                                                                                                                                                                 rxn16140
+12:                                                                                                                                                                                                                                                                                                 rxn16139
+13:                                                                                                                                                                                                                                                                                        rxn03642 rxn43573
+14: rxn01451 rxn03239 rxn03242 rxn03244 rxn03246 rxn03249 rxn03287 rxn03289 rxn03860 rxn04750 rxn06037 rxn06777 rxn07680 rxn07684 rxn07688 rxn07883 rxn08700 rxn15495 rxn15510 rxn20473 rxn21061 rxn21065 rxn21066 rxn21572 rxn23121 rxn23125 rxn23153 rxn27454 rxn30548 rxn31677 rxn31684 rxn31720 rxn32645
+15:                                                                                                                                                                                                                                                             rxn02167 rxn02168 rxn03874 rxn19669 rxn27538
+16:                                                                                                                                                                                                                                                                                                         
+17:                                                                                                                                                                                                                                                             rxn05320 rxn06672 rxn19235 rxn27736 rxn31681
+18:                                                                                                                                                                                                                                                                                        rxn05321 rxn06673
+19:                                                                                                                                                                                                                                                                                                 rxn00102
+20:                                                                                                                                                                                                                                                                      rxn14010 rxn16361 rxn19165 rxn90090
+21:                                                                                                                                                                                                                                                                                                 rxn40053
+                                                                                                                                                                                                                                                                                                        seed
+[1] "Reactions already in model:  rxn00102,rxn00178,rxn00532,rxn00602,rxn00668,rxn00676,rxn00874,rxn01355,rxn01451,rxn01996,rxn02167,rxn02168,rxn02181,rxn02680,rxn02804,rxn03239,rxn03242,rxn03243,rxn03244,rxn03246,rxn03248,rxn03249,rxn03287,rxn03288,rxn03289,rxn03642,rxn03796,rxn03860,rxn03874,rxn04750,rxn05831,rxn06037,rxn06510,rxn06672,rxn06777,rxn07680,rxn07681,rxn07684,rxn07685,rxn07688,rxn07689,rxn07727,rxn07743,rxn07880,rxn07883,rxn07884,rxn08700,rxn08767,rxn14010,rxn14157,rxn15495,rxn15510,rxn16140,rxn43573,rxn90090"
+[1] "Reactions not in gapseq reaction database:  rxn00598,rxn05320,rxn16361,rxn16680,rxn16825,rxn19165,rxn19235,rxn19961,rxn20473,rxn21061,rxn21062,rxn21063,rxn21064,rxn21065,rxn21066,rxn21572,rxn21573,rxn23003,rxn23121,rxn23125,rxn23126,rxn23153,rxn26656,rxn27454,rxn27736,rxn30548,rxn31677,rxn31681,rxn31684,rxn31685,rxn31720,rxn32645,rxn32881"
+[1] "Added reactions:  rxn05321,rxn06673,rxn16139,rxn16146,rxn16149,rxn19669,rxn27538,rxn40053"

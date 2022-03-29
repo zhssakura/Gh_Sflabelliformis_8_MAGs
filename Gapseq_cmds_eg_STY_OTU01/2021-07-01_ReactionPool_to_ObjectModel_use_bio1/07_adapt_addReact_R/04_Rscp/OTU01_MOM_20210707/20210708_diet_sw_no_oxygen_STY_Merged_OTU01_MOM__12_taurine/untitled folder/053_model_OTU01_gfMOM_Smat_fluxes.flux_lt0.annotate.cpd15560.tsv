@@ -1,0 +1,4 @@
+		sol$fluxes	cpd15560[c0]	cpd15560[e0]
+		met_name	Ubiquinone-8[c0]	Ubiquinone-8[e0]
+rxn08972_c0	NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)	-94.8693769616427	-1	0
+rxn09272_c0	fumarate reductase complex (i.e. FRD, involved in anaerobic respiration, repressed in aerobic respiration)	94.8693769616427	-1	0

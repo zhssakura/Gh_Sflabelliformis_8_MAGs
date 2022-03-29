@@ -1,0 +1,5 @@
+		sol$fluxes	cpd15560[c0]	cpd15560[e0]
+		met_name	Ubiquinone-8[c0]	Ubiquinone-8[e0]
+rxn08972_c0	NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)	976.328131052322	-1	0
+rxn13726_c0	NADH-DEHYDROG-A-RXN.ce.cornexp.CPD-9956_UBIQUINONE-8	-1000	-1	0
+rxn90092_c0	Quinone reductase	23.6718689476784	-1	0

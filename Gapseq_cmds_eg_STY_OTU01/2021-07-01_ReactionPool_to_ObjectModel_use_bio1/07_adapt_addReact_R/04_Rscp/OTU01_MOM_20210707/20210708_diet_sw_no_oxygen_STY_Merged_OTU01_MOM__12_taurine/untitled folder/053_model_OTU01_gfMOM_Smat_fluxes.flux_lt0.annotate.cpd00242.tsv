@@ -1,0 +1,4 @@
+		sol$fluxes	cpd00242[c0]
+		met_name	H2CO3[c0]
+rxn00102_c0	carbonate hydro-lyase (carbon-dioxide-forming)	-0.356739530446589	-1
+rxn00533_c0	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)	0.356739530446594	-1

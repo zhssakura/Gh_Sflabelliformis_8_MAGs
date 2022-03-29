@@ -1,0 +1,4 @@
+		sol$fluxes	cpd11606[c0]	cpd11606[e0]
+		met_name	Menaquinone 7[c0]	Menaquinone 7[e0]
+rxn10044_c0	cytochrome-c reductase (menaquinol 7: 3 protons)	173.004622124269	1	0
+rxn13727_c0	NADH dehydrogenase (menaquinone-7 & 4 protons)	173.004622124269	-1	0

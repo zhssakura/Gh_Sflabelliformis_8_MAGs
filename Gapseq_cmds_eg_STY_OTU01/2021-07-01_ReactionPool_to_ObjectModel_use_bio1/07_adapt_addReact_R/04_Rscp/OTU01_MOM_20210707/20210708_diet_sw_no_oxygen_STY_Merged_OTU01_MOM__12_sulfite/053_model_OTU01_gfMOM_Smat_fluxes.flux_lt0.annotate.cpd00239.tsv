@@ -1,0 +1,7 @@
+		sol$fluxes	cpd00239[c0]	cpd00239[e0]
+		met_name	H2S[c0]	H2S[e0]
+rxn05902_c0	sulphite reductase	-0.0683920829155561	-1	0
+rxn05909_c0	L-serine hydro-lyase (adding hydrogen sulfide, L-cysteine-forming)	1000	-1	0
+rxn05957_c0	O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase	0.068392082955711	-1	0
+rxn14246_c0	L-homocysteine hydrogen-sulfide-lyase	1000	1	0
+rxn08689_c0	h2s transport (periplasm)	-4.01314537157305e-11	-1	1

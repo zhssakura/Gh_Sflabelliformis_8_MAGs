@@ -1,0 +1,450 @@
+		sol$fluxes	cpd00067[c0]	cpd00067[e0]
+		met_name	H+[c0]	H+[e0]
+rxn00001_c0	diphosphate phosphohydrolase	1.07938550362623	1	0
+rxn00029_c0	5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming)	0.00983577206798401	1	0
+rxn00048_c0	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase	0.0024589430170181	-1	0
+rxn00056_c0	Fe(II):oxygen oxidoreductase	0.000568084232630683	-4	0
+rxn00058_c0	Ferrocytochrome-c:oxygen oxidoreductase	36.5023110621346	-4	0
+rxn00069_c0	L-glutamate:NAD+ oxidoreductase (transaminating)	0.417291373812873	1	0
+rxn00070_c0	glutathione:NAD+ oxidoreductase	1000	1	0
+rxn00078_c0	ATP:NADH 2'-phosphotransferase	0.00122947150849805	1	0
+rxn00086_c0	glutathione:NADP+ oxidoreductase	-1000	1	0
+rxn00097_c0	ATP:AMP phosphotransferase	0.705291856276517	-1	0
+rxn00100_c0	ATP:dephospho-CoA 3'-phosphotransferase	0.0024589430170181	1	0
+rxn00102_c0	carbonate hydro-lyase (carbon-dioxide-forming)	-0.356739530446589	-1	0
+rxn00106_c0	Triphosphate phosphohydrolase	0.00122947150850905	1	0
+rxn00114_c0	ATP:carbamate phosphotransferase	0.184948388940143	2	0
+rxn00119_c0	ATP:UMP phosphotransferase	0.106075308557365	-1	0
+rxn00124_c0	ATP:pyridoxal 5'-phosphotransferase	1.7539572225167e-14	1	0
+rxn00126_c0	ATP:L-methionine S-adenosyltransferase	0.003688414525494	1	0
+rxn00134_c0	ATP:adenosine 5'-phosphotransferase	0.002458943016996	1	0
+rxn00138_c0	deamido-NAD+:ammonia ligase (AMP-forming)	0.00245894301701077	2	0
+rxn00182_c0	L-glutamate:NAD+ oxidoreductase (deaminating)	-1000	1	0
+rxn00184_c0	L-Glutamate:NADP+ oxidoreductase (deaminating)	1000	1	0
+rxn00202_c0	acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)	-0.101478117790293	-1	0
+rxn00218_c0	D-Glucose:NADP+ 1-oxidoreductase	1000	1	0
+rxn00224_c0	protoheme ferro-lyase (protoporphyrin-forming)	0.00122947150850905	2	0
+rxn00239_c0	ATP:GMP phosphotransferase	0.0786706759801064	-1	0
+rxn00248_c0	(S)-malate:NAD+ oxidoreductase	-803.033497830315	1	0
+rxn00249_c0	(S)-malate:NADP+ oxidoreductase	1000	1	0
+rxn00256_c0	acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing)	-95.5935101207019	-1	0
+rxn00288_c0	Succinate:(acceptor) oxidoreductase	0.263044649972358	-1	0
+rxn00300_c0	GTP 7,8-8,9-dihydrolase (diphosphate-forming)	0.002458943016996	3	0
+rxn00302_c0	GTP 8,9-hydrolase	0.00368841452551605	1	0
+rxn00324_c0	glycolate:NADP+ oxidoreductase	0.00368841452552715	1	0
+rxn00340_c0	L-aspartate:ammonia ligase (AMP-forming)	0.0712837085089664	2	0
+rxn00351_c0	gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)	0.001229471508498	1	0
+rxn00364_c0	ATP:CMP phosphotransferase	0.101534727334824	-1	0
+rxn00392_c0	ATP:riboflavin 5'-phosphotransferase	0.00122947150851554	1	0
+rxn00410_c0	UTP:ammonia ligase (ADP-forming)	0.0472900011895329	2	0
+rxn00438_c0	ATP:thiamin-phosphate phosphotransferase	0.00122947150849801	-1	0
+rxn00453_c0	O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase	0.0466767267151909	1	0
+rxn00490_c0	L-arogenate hydro-lyase (decarboxylating; L-phenylalanine-forming)	0.0547857323038344	-1	0
+rxn00510_c0	N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase (L-lysine-forming)	-999.89852188221	1	0
+rxn00532_c0	3-oxopropanoate:NADP+ oxidoreductase (CoA-malonylating)	-0.0024589430170181	1	0
+rxn00533_c0	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)	0.356739530446594	1	0
+rxn00536_c0	Ethanol:NADP+ oxidoreductase	1000	1	0
+rxn00543_c0	ethanol:NAD+ oxidoreductase	-1000	1	0
+rxn00604_c0	D-glucose-6-phosphate:NADP+ 1-oxidoreductase	999.978506695597	1	0
+rxn00611_c0	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase	-0.0583417979840088	1	0
+rxn00615_c0	ATP:glycerol 3-phosphotransferase	0.00972363299724083	1	0
+rxn00646_c0	L-glutamate:L-cysteine gamma-ligase (ADP-forming)	0.001229471508498	1	0
+rxn00684_c0	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase	999.988622211997	1	0
+rxn00686_c0	5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase	-1000	1	0
+rxn00710_c0	orotidine-5'-phosphate carboxy-lyase (UMP-forming)	0.097477986795988	-1	0
+rxn00719_c0	5,6-Dihydrouracil:NAD+ oxidoreductase	1000	1	0
+rxn00720_c0	5,6-Dihydrouracil:NADP+ oxidoreductase	-1000	1	0
+rxn00726_c0	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)	0.0168092587750401	1	0
+rxn00763_c0	Glycerol:NAD+ oxidoreductase	-1000	1	0
+rxn00765_c0	Glycerol:NADP+ oxidoreductase	1000	1	0
+rxn00770_c0	ATP:D-ribose-5-phosphate diphosphotransferase	0.052537221058742	1	0
+rxn00781_c0	D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)	-208.677812113707	1	0
+rxn00789_c0	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase	-0.028015431291692	-1	0
+rxn00790_c0	5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)	-0.145286120998048	-1	0
+rxn00791_c0	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase	-0.0168092587750401	-1	0
+rxn00804_c0	L-leucine:NAD+ oxidoreductase (deaminating)	-1000	1	0
+rxn00834_c0	IMP:NAD+ oxidoreductase	0.0774412044715973	1	0
+rxn00838_c0	IMP:L-aspartate ligase (GDP-forming)	0.0946308763096675	2	0
+rxn00859_c0	L-Histidinol:NAD+ oxidoreductase	0.028015431291692	3	0
+rxn00902_c0	acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)	-0.159158627913545	-1	0
+rxn00916_c0	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)	0.0774412044716164	3	0
+rxn00929_c0	L-Proline:NAD+ 5-oxidoreductase	-0.0653693396807115	2	0
+rxn00945_c0	hexadecanoyl-CoA:NADP+ trans-2-oxidoreductase	-0.025929687992857	1	0
+rxn00957_c0	4-hydroxybenzaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn00958_c0	4-Hydroxybenzaldehyde:NADP+ oxidoreductase	-1000	2	0
+rxn00962_c0	4-hydroxybenzoate,NADPH:oxygen oxidoreductase (3-hydroxylating)	6.52836012188355e-14	-1	0
+rxn00979_c0	glycolaldehyde:NAD+ oxidoreductase	0.00368841452552715	2	0
+rxn00997_c0	Phenyllactate:NAD+ oxidoreductase	1000	1	0
+rxn00998_c0	Phenyllactate:NADP+ oxidoreductase	-1000	1	0
+rxn01011_c0	D-Glycerate:NAD+ 2-oxidoreductase	1000	1	0
+rxn01013_c0	D-Glycerate:NADP+ 2-oxidoreductase	-1000	1	0
+rxn01018_c0	carbamoyl-phosphate:L-aspartate carbamoyltransferase	0.0974779867959796	1	0
+rxn01019_c0	Carbamoyl-phosphate:L-ornithine carbamoyltransferase	1000	1	0
+rxn01027_c0	5,6-Dihydrothymine:NAD+ oxidoreductase	1000	1	0
+rxn01028_c0	5,6-Dihydrothymine:NADP+ oxidoreductase	-1000	1	0
+rxn01032_c0	Benzaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn01033_c0	benzaldehyde:NADP+ oxidoreductase	-1000	2	0
+rxn01041_c0	D-xylose:NAD+ 1-oxidoreductase	1000	1	0
+rxn01043_c0	xylitol:NADP+ oxidoreductase	1000	1	0
+rxn01045_c0	L-Valine:NAD+ oxidoreductase(deaminating)	-0.125135593103096	1	0
+rxn01101_c0	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase	0.470928352057172	1	0
+rxn01108_c0	beta-D-Glucose:NAD+ 1-oxoreductase	1000	1	0
+rxn01127_c0	ATP:dAMP phosphotransferase	1.13686837721616e-13	-1	0
+rxn01211_c0	5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)	0.30506348669428	1	0
+rxn01213_c0	GPPSYN-RXN	0.00429866088052222	1	0
+rxn01220_c0	ATP:deoxycitidine 5'-phosphotransferase	6.57737753151366e-14	1	0
+rxn01241_c0	Dihydrolipoamide:NAD+ oxidoreductase	-0.37266715332828	1	0
+rxn01276_c0	D-Gluconate:NAD+ 5-oxidoreductase	1000	1	0
+rxn01278_c0	D-Gluconate:NADP+ 5-oxidoreductase	-1000	1	0
+rxn01286_c0	D-Glyceraldehyde:NAD+ oxidoreductase	8.05503431839411e-14	2	0
+rxn01288_c0	D-threo-Aldose:NAD+ 1-oxidoreductase	1000	1	0
+rxn01289_c0	L-Arabinose:NAD+ 1-oxidoreductase	-1000	1	0
+rxn01290_c0	L-Arabitol:NAD+ 1-oxidoreductase	-1000	1	0
+rxn01291_c0	L-Arabitol:NADP+ 1-oxidoreductase	1000	1	0
+rxn01300_c0	ATP:L-homoserine O-phosphotransferase	0.160933088642423	1	0
+rxn01301_c0	L-Homoserine:NAD+ oxidoreductase	-0.207609815357614	1	0
+rxn01324_c0	Tetrahydrobiopterin:NADP+ oxidoreductase	-1000	1	0
+rxn01331_c0	D-erythrose 4-phosphate:NAD+ oxidoreductase	0.00122947150850905	2	0
+rxn01337_c0	3beta-Hydroxyandrost-5-en-17-one:NAD+ 3-oxidoreductase/delta5-delta-4 isomerase	1000	1	0
+rxn01339_c0	3beta-Hydroxyandrost-5-en-17-one:NADP+ 3-oxidoreductase	-1000	1	0
+rxn01361_c0	(S)-dihydroorotate:NAD+ oxidoreductase	0.097477986795988	1	0
+rxn01362_c0	Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase	-0.097477986795988	-1	0
+rxn01363_c0	L-quinate:NAD+ 3-oxidoreductase	1000	1	0
+rxn01387_c0	Isocitrate:NADP+ oxidoreductase	1000	1	0
+rxn01420_c0	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)	0.101478117790293	-1	0
+rxn01434_c0	L-Citrulline:L-aspartate ligase (AMP-forming)	0.0874704021441902	2	0
+rxn01465_c0	(S)-dihydroorotate amidohydrolase	-0.0974779867959796	1	0
+rxn01466_c0	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase	0.00429866088052222	1	0
+rxn01513_c0	ATP:dTMP phosphotransferase	0.00768937347743304	-1	0
+rxn01517_c0	ATP:dUMP phosphotransferase	-0.00768937347754672	-1	0
+rxn01573_c0	L-Isoleucine:NAD+ oxidoreductase(deaminating)	998.28013139164	1	0
+rxn01582_c0	20alpha-Hydroxy-4-pregnen-3-one:NAD+ 20-oxidoreductase	1000	-1	0
+rxn01584_c0	20alpha-Hydroxy-4-pregnen-3-one:NADP+ 20-oxidoreductase	-1000	-1	0
+rxn01586_c0	Pregnenolone:NAD+ 3-oxidoreductase	-1000	1	0
+rxn01587_c0	Pregnenolone:NADP+ 3-oxidoreductase	1000	1	0
+rxn01603_c0	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)	0.00368841452551605	1	0
+rxn01615_c0	Propane-1,2-diol:NAD+ oxidoreductase	1000	1	0
+rxn01627_c0	Succinyl-CoA:glycine C-succinyl-transferase(decarboxylating)	0.019671544135968	-1	0
+rxn01643_c0	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)	-0.213137947746759	1	0
+rxn01644_c0	L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and cyclizing)	0.00429866088060862	1	0
+rxn01647_c0	Nicotinate D-ribonucleoside:orthophosphate ribosyltransferase	-1.7539572225167e-14	1	0
+rxn01663_c0	N6-(L-1,3-Dicarboxypropyl)-L-lysine:NADP+ oxidoreductase	999.89852188221	1	0
+rxn01685_c0	Acetoin:NAD+ oxidoreductase	1000	1	0
+rxn01692_c0	Estradiol-17beta:NAD+ 17-oxidoreductase	1000	1	0
+rxn01693_c0	Estradiol-17beta:NADP+ 17-oxidoreductase	-1000	1	0
+rxn01731_c0	Itaconate:CoA ligase (ADP-forming)	1000	-1	0
+rxn01732_c0	Itaconate:CoA ligase (GDP-forming)	-1000	-1	0
+rxn01733_c0	Itaconate:CoA ligase (IDP-forming)	-1000	-1	0
+rxn01734_c0	Succinyl-CoA:citramalate CoA-transferase	1000	-1	0
+rxn01739_c0	ATP:shikimate 3-phosphotransferase	0.116061422262192	1	0
+rxn01740_c0	Shikimate:NADP+ 3-oxidoreductase	999.883938577738	1	0
+rxn01790_c0	(R)-Pantoate:NADP+ 2-oxidoreductase	-0.0024589430170181	1	0
+rxn01791_c0	(R)-Pantoate:beta-alanine ligase (AMP-forming)	0.00245894301699604	2	0
+rxn01809_c0	Testosterone delta5-delat4-isomerase	1000	-1	0
+rxn01810_c0	Testosterone delta5-delat4-isomerase	-1000	-1	0
+rxn01816_c0	R02508	-1000	-1	0
+rxn01829_c0	L-Arabinono-1,5-lactone lactonohydrolase	1000	1	0
+rxn01830_c0	L-Arabinono-1,4-lactone lactonohydrolase	-1000	1	0
+rxn01835_c0	Lactaldehyde:NAD+ 1-oxidoreductase	-1000	1	0
+rxn01840_c0	Phenylacetaldehyde:NAD+ oxidoreductase	1000	1	0
+rxn01841_c0	Aldehyde:NADP+ oxidoreductase	-1000	1	0
+rxn01879_c0	Propane-1,2-diol:NAD+ 1-oxidoreductase	-1000	1	0
+rxn01887_c0	coniferyl alcohol:NADP+ oxidoreductase	-1000	1	0
+rxn01937_c0	Indole-3-acetaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn01938_c0	indole-3-ethanol:NAD+ oxidoreductase	-908.428366077399	1	0
+rxn01939_c0	indole-3-ethanol:NADP+ oxidoreductase	908.428366077399	1	0
+rxn01943_c0	4-Hydroxyphenylacetaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn01944_c0	4-Hydroxyphenylacetaldehyde:NADP+ oxidoreductase	-1000	2	0
+rxn01975_c0	beta-D-Glucose-6-phosphate:NADP+ 1-oxoreductase	-1000	1	0
+rxn02008_c0	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)	0.00429866088064423	1	0
+rxn02011_c0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming)	0.00429866088064423	1	0
+rxn02038_c0	Cortisol delta5-delat4-isomerase	1000	-1	0
+rxn02040_c0	Cortisol delta5-delat4-isomerase	-1000	-1	0
+rxn02049_c0	R02856	-1000	1	0
+rxn02056_c0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	-0.00122947150851554	-2	0
+rxn02102_c0	(S)-Ureidoglycolate:NAD+ oxidoreductase	1000	1	0
+rxn02103_c0	(S)-Ureidoglycolate:NADP+ oxidoreductase	-1000	1	0
+rxn02186_c0	2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	0.286753164033618	-1	0
+rxn02209_c0	(R)-Propane-1,2-diol:NAD+ oxidoreductase	1000	1	0
+rxn02226_c0	L-2-Aminoadipate-6-semialdehyde:NAD+ 6-oxidoreductase	999.89852188221	2	0
+rxn02227_c0	L-2-Aminoadipate-6-semialdehyde:NADP+ 6-oxidoreductase	-1000	2	0
+rxn02270_c0	Branched-chain acyl-CoA dehydrogenase	-0.025929687992857	-1	0
+rxn02285_c0	UDP-N-acetylmuramate:NADP+ oxidoreductase	-0.00429866088064423	1	0
+rxn02286_c0	UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)	0.00429866088064423	1	0
+rxn02287_c0	S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	1000	1	0
+rxn02288_c0	Uroporphyrinogen-III carboxy-lyase	0.00122947150849555	-4	0
+rxn02297_c0	6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating)	-7.3547938572727e-15	-1	0
+rxn02302_c0	O-Acetyl-L-homoserine succinate-lyase (adding cysteine)	-1000	1	0
+rxn02303_c0	Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)	0.00122947150849555	-2	0
+rxn02341_c0	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase	0.0024589430170181	-1	0
+rxn02364_c0	3,4-Dihydroxyphenylacetaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn02365_c0	3,4-Dihydroxyphenylacetaldehyde:NADP+ oxidoreductase	-1000	2	0
+rxn02373_c0	L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)	-0.155298684841933	1	0
+rxn02383_c0	20alpha-hydroxy steroid dehydrogenase	1000	1	0
+rxn02384_c0	17alpha,20alpha-Dihydroxypregn-4-en-3-one:NADP+ 20-oxidoreductase	-1000	1	0
+rxn02385_c0	17alpha-Hydroxypregnenolone:NAD+ 3-oxidoreductase	1000	1	0
+rxn02386_c0	17alpha-Hydroxypregnenolone:NADP+ 3-oxidoreductase	-1000	1	0
+rxn02392_c0	4-hydroxyphenyllactate:NAD+ oxidoreductase	1000	1	0
+rxn02393_c0	(R)-3-(4-hydroxyphenyl)lactate:NAD+ 2-oxidoreductase	1000	1	0
+rxn02394_c0	4-Hydroxyphenyllactate:NADP+ oxidoreductase	-1000	1	0
+rxn02395_c0	(R)-3-(4-hydroxyphenyl)lactate:NADP+ 2-oxidoreductase	-1000	1	0
+rxn02402_c0	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)	-0.00245894301701077	1	0
+rxn02405_c0	CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase	0.0128959826418259	1	0
+rxn02474_c0	5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase	-0.0024589430170181	1	0
+rxn02475_c0	2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase	0.002458943016996	-1	0
+rxn02507_c0	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)	0.0168092587750834	-1	0
+rxn02679_c0	Octanoyl-CoA:oxygen 2-oxidoreductase	-0.0517216532765588	-1	0
+rxn02720_c0	Lauroyl-CoA:(acceptor) 2,3-oxidoreductase	-0.0517216532765588	-1	0
+rxn02758_c0	Sinapyl alcohol:NADP+ oxidoreductase	1000	-1	0
+rxn02774_c0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	0.00122947150851554	2	0
+rxn02803_c0	Tetradecanoyl-CoA:(acceptor) 2,3-oxidoreductase	-0.0302283488734929	-1	0
+rxn02810_c0	(E)-Glutaconate CoA-transferase	1000	-1	0
+rxn02834_c0	Phosphoribosyl-ATP pyrophosphohydrolase	0.028015431291692	2	0
+rxn02895_c0	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)	0.145286120998048	1	0
+rxn02905_c0	21-Hydroxypregnenolone:NAD+ 3-oxidoreductase	1000	1	0
+rxn02906_c0	21-Hydroxypregnenolone:NADP+ 3-oxidoreductase	-1000	1	0
+rxn02928_c0	2,3,4,5-Tetrahydrodipicolinate:NAD+ oxidoreductase	-0.00429866088060862	1	0
+rxn02933_c0	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase	999.974070312007	1	0
+rxn02937_c0	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)	0.145286120998048	1	0
+rxn02939_c0	4-phospho-D-erythronate:NAD+ 2-oxidoreductase	0.00122947150850905	1	0
+rxn02985_c0	6-Lactoyl-5,6,7,8-tetrahydropterin:NADP+ 2'-oxidoreductase	-1000	1	0
+rxn03004_c0	10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase	0.145286120998094	1	0
+rxn03068_c0	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	0.286753164033598	1	0
+rxn03071_c0	L-1-Pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase	-1000	1	0
+rxn03072_c0	L-1-Pyrroline-3-hydroxy-5-carboxylate:NADP+ oxidoreductase	1000	1	0
+rxn03080_c0	5-amino-6-(D-ribitylamino)uracil butanedionetransferase	0.0049178860340362	1	0
+rxn03084_c0	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)	0.145286120998048	1	0
+rxn03108_c0	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase	0.00122947150850905	-1	0
+rxn03112_c0	(15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate:NAD+ 15-oxidoreductase	1000	1	0
+rxn03113_c0	(15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate:NADP+ 15-oxidoreductase	-1000	1	0
+rxn03130_c0	UDP-2,3-bis[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine 2,3-bis[(3R)-3-hydroxymyristoyl]-beta-D-glucosaminyl 1-phosphate phosphohydrolase	0.00429866088052222	2	0
+rxn03135_c0	R04558	-0.028015431291692	-2	0
+rxn03136_c0	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase	0.144056649489585	1	0
+rxn03147_c0	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)	0.14405664948955	1	0
+rxn03164_c0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)	0.00429866088064423	1	0
+rxn03167_c0	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate phosphohydrolase (alkaline optimum)	0.00368841452551605	2	0
+rxn03175_c0	N-(5'-Phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase	0.028015431291692	-1	0
+rxn03181_c0	ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase	0.00429866088060862	1	0
+rxn03182_c0	CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase	0.00429866088060862	1	0
+rxn03198_c0	16alpha-Hydroxyandrost-4-ene-3,17-dione delta5-delat4-isomerase	1000	-1	0
+rxn03199_c0	16alpha-Hydroxyandrost-4-ene-3,17-dione delta5-delat4-isomerase	-1000	-1	0
+rxn03200_c0	Estriol:NAD+ 17-oxidoreductase	1000	1	0
+rxn03201_c0	Estriol:NADP+ 17-oxidoreductase	-1000	1	0
+rxn03239_c0	(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase	-0.025929687992857	1	0
+rxn03242_c0	(S)-3-hydroxydodecanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1	0
+rxn03244_c0	(S)-hydroxydecanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1	0
+rxn03246_c0	(S)-hydroxyoctanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1	0
+rxn03249_c0	(S)-hydroxyhexanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1	0
+rxn03251_c0	Hexanoyl-CoA:(acceptor) 2,3-oxidoreductase	-0.0517216532765588	-1	0
+rxn03253_c0	Decanoyl-CoA:(acceptor) 2,3-oxidoreductase	-0.0517216532765588	-1	0
+rxn03255_c0	short-chain dehydrogenase/reductase (SDR) family protein	-1000	1	0
+rxn03256_c0	11beta-Hydroxyandrost-4-ene-3,17-dione:NADP+ 11-oxidoreductase	1000	1	0
+rxn03309_c0	short-chain dehydrogenase/reductase (SDR) family protein	-1000	1	0
+rxn03310_c0	Tetrahydrocorticosterone:NADP+ 11-oxidoreductase	1000	1	0
+rxn03317_c0	11-Deoxycortisol delta5-delat4-isomerase	1000	-1	0
+rxn03319_c0	11-Deoxycortisol delta5-delat4-isomerase	-1000	-1	0
+rxn03324_c0	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)	0.101478117790293	1	0
+rxn03335_c0	3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn03336_c0	3,4-Dihydroxymandelaldehyde:NADP+ oxidoreductase	-1000	2	0
+rxn03340_c0	3-Methoxy-4-hydroxyphenylacetaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn03341_c0	3-Methoxy-4-hydroxyphenylacetaldehyde:NADP+ oxidoreductase	-1000	2	0
+rxn03343_c0	3-Methoxy-4-hydroxyphenylglycolaldehyde:NAD+ oxidoreductase	1000	2	0
+rxn03344_c0	3-Methoxy-4-hydroxyphenylglycolaldehyde:NADP+ oxidoreductase	-1000	2	0
+rxn03419_c0	formamidopyrimidine nucleoside triphosphate amidohydrolase	0.00368841452552715	1	0
+rxn03435_c0	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)	-1000	1	0
+rxn03439_c0	CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase	0.00429866088060862	1	0
+rxn03601_c0	p-Methylbenzaldehyde:NADP+ oxidoreductase	1000	2	0
+rxn03638_c0	Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase	0.0171946435225057	1	0
+rxn03841_c0	4-amino-4-deoxychorismate pyruvate-lyase	0.00368841452551605	1	0
+rxn03861_c0	(S)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase	-0.0517216532765087	2	0
+rxn03874_c0	R05595	-0.0517216532765588	-1	0
+rxn03901_c0	undecaprenyl-diphosphate phosphohydrolase	0.00429866088063591	2	0
+rxn03908_c0	ATP:4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol 2-phosphotransferase	0.0472852696866948	1	0
+rxn03909_c0	1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)	0.0497442127036909	-1	0
+rxn03918_c0	ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase	0.0171946435225436	1	0
+rxn03935_c0	R05664	1000	2	0
+rxn03958_c0	1-Deoxy-D-xylulose-5-phosphate isomeroreductase	-0.0472852696866539	1	0
+rxn03981_c0	mycothiol:NAD+ oxidoreductase	1000	1	0
+rxn03982_c0	mycothiol:NADP+ oxidoreductase	-1000	1	0
+rxn04024_c0	trans-feruloyl-CoA hydro-lyase	1000	-1	0
+rxn04025_c0	3-hydroxy-3-(4-hydroxy-3-methoxyphenyl)propionyl-CoA:vanillin lyase (acetyl-CoA-forming)	1000	1	0
+rxn04070_c0	pyridoxine 5'-phosphate synthase	0.001229471508498	1	0
+rxn04113_c0	isopentenyl-diphosphate:NAD(P)+ oxidoreductase	0.0472852696866948	-1	0
+rxn04424_c0	cinnamyl-alcohol:NADP+ oxidoreductase	-1000	-1	0
+rxn04425_c0	cinnamyl-alcohol:NADP+ oxidoreductase	-1000	-1	0
+rxn04428_c0	caffeic aldehyde:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase	1000	1	0
+rxn04429_c0	S-adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase	-1000	1	0
+rxn04430_c0	S-adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase	1000	1	0
+rxn04431_c0	S-adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase	-1000	1	0
+rxn04661_c0	L-quinate:NADP+ 3-oxidoreductase	-1000	1	0
+rxn04662_c0	shikimate:NAD+ 3-oxidoreductase	-1000	1	0
+rxn04954_c0	5-methyltetrahydrofolate:NAD+ oxidoreductase	-0.0503651412405995	1	0
+rxn05005_c0	S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase	-999.998770528491	1	0
+rxn05012_c0	carbamoyl-phosphate:N2-acetyl-L-ornithine carbamoyltransferase	-999.912529597856	1	0
+rxn05035_c0	O-phospho-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase	0.0786761963311388	-1	0
+rxn05040_c0	D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)	0.00491788603399201	1	0
+rxn05142_c0	sinapoyl aldehyde:NAD oxidoreductase	1000	2	0
+rxn05143_c0	sinapoyl aldehyde:NADP oxidoreductase	-1000	2	0
+rxn05145_c0	phosphate-transporting ATPase	0.313411356523257	1	0
+rxn05148_c0	Heme transport via ABC system	1.99918206988947e-14	1	0
+rxn05149_c0	ABC-type manganese permease complex	0.00227233693052273	1	0
+rxn05172_c0	ATP phosphohydrolase (taurine-importing)	100	1	0
+rxn05198_c0	Transport of cytidine, extracellular	1000	1	-1
+rxn05199_c0	Uridine permease	1000	1	-1
+rxn05289_c0	NADPH:oxidized-thioredoxin oxidoreductase	0.0312576157619043	-1	0
+rxn05293_c0	2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	0.0472852696866948	-1	0
+rxn05342_c0	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	-0.0171946435224299	1	0
+rxn05345_c0	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	0.0171946435224345	-1	0
+rxn05496_c0	TRANS-RXNBWI-115637.ce.maizeexp.L-ALPHA-ALANINE_L-ALPHA-ALANINE	1000	1	-1
+rxn05514_c0	calcium transport in/out via proton antiporter	-0.00227233294253892	2	-2
+rxn05555_c0	iron (II) transport via ABC system	0.00700361687805655	1	0
+rxn05582_c0	TRANS-RXNBWI-115637.ce.maizeexp.GLY_GLY	-1000	1	-1
+rxn05593_c0	Myo-inositol transporter 1	1000	1	-1
+rxn05595_c0	TRANS-RXN-3.ce	-999.997727663069	-1	1
+rxn05605_c0	Maltose permease MAL31	-1000	2	-2
+rxn05625_c0	nitrite transport in via proton symport, reversible	-100	1	-1
+rxn05627_c0	nitrate transport in via proton symport	100	1	-1
+rxn05651_c0	sulfate transport in via proton symport	-999.997727669052	2	-2
+rxn05902_c0	sulphite reductase	-100	6	0
+rxn05909_c0	L-serine hydro-lyase (adding hydrogen sulfide, L-cysteine-forming)	-1000	-1	0
+rxn06023_c0	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	0.00122947150850905	1	0
+rxn06071_c0	rubredoxin:NAD+ oxidoreductase	-1000	-1	0
+rxn06072_c0	Reduced rubredoxin:NADP+ oxidoreductase	1000	-1	0
+rxn06252_c0	Alditol:NAD+ 1-oxidoreductase	-1000	1	0
+rxn06253_c0	Alditol:NADP+ 1-oxidoreductase	1000	1	0
+rxn06525_c0	protein-dithiol:NAD+ oxidoreductase	-1000	1	0
+rxn06526_c0	protein-dithiol:NADP+ oxidoreductase	1000	1	0
+rxn06723_c0	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]:UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine N-acetyltransferase	-0.00859732176121724	-1	0
+rxn06777_c0	(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase	-0.0302283488734656	1	0
+rxn07191_c0	D-glyceraldehyde-3-phosphate:ferredoxin oxidoreductase	207.789375401045	3	0
+rxn07481_c0	3-hydroxybenzaldehyde:NADP+ oxidoreductase	1000	2	0
+rxn07482_c0	3-hydroxybenzaldehyde:NAD+ oxidoreductase	-1000	2	0
+rxn08020_c0	laurate-[acyl-carrier-protein] ligase	0.0214933044030431	1	0
+rxn08084_c0	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)	499.995701339119	-1	0
+rxn08168_c0	L-aspartate : fumarate oxidoreductase (deaminating)	0.00245894301701077	1	0
+rxn08173_c0	F(1)-ATPase	232.220572494433	3	-4
+rxn08240_c0	cobalt (Co+2) transport out via proton antiport (periplasm)	-0.0022723369305595	2	-2
+rxn08386_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:1)	1000	-1	0
+rxn08387_c0	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:1)	-1000	-1	0
+rxn08390_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)	1000	-1	0
+rxn08391_c0	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:1)	-1000	-1	0
+rxn08392_c0	trans hexadecenoyl-[acp] reductase	1000	-1	0
+rxn08393_c0	trans hexadecenoyl-[acp] reductase (NADPH, B-specific)	-1000	-1	0
+rxn08394_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:1)	1000	-1	0
+rxn08395_c0	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:1)	-1000	-1	0
+rxn08398_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)	1000	-1	0
+rxn08399_c0	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:1)	-1000	-1	0
+rxn08440_c0	lauroyl-CoA hydrolase	0.0214933044030431	1	0
+rxn08764_c0	ketol-acid reductoisomerase (2-Acetolactate)	-999.914086010705	-1	0
+rxn08797_c0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:0) (periplasm)	-1000	1	0
+rxn08818_c0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:0)	500	2	0
+rxn08921_c0	magnesium (Mg+2) transport in/out via proton antiport (periplasm)	0.0022723369305595	-2	2
+rxn08972_c0	NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)	-94.8693769616427	-5	4
+rxn09071_c0	pyridoxine 5'-phosphate oxidase (anaerboic	0.00122947150850905	1	0
+rxn09106_c0	phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0)	0.00972363299732138	1	0
+rxn09124_c0	Phospholipase A1 (phosphatidate, n-C14:0) (periplasm)	500	1	0
+rxn09130_c0	Phospholipase A1 (phosphatidylethanolamine, n-C12:0) (periplasm)	-2.16840434497101e-18	1	0
+rxn09177_c0	(R)-4'-Phosphopantothenate:L-cysteine ligase	0.0024589430170181	2	0
+rxn09197_c0	Phosphatidylserine decarboxylase (n-C12:0)	-2.16840434497101e-18	-2	0
+rxn09202_c0	Phosphatidylserine decarboxylase (n-C18:0)	0.00324121099910713	-2	0
+rxn09210_c0	Phosphatidylserine syntase (n-C18:0)	0.00324121099910713	2	0
+rxn09389_c0	TRANS-RXN0-200.cp	-0.0022723369305595	2	-2
+rxn09519_c0	alpha-Aminopropiononitrile aminohydrolase	-1000	-1	0
+rxn09882_c0	RXN-5581.c.metaexp.NADP_NADPH	-1000	2	0
+rxn09896_c0	isoleucine dehydrogenase	-0.0859139892945677	1	0
+rxn09948_c0	O-succinylhomoserine lyase (methanethiol)	999.953323273285	1	0
+rxn10044_c0	cytochrome-c reductase (menaquinol 7: 3 protons)	173.004622124269	-1	3
+rxn10212_c0	myristoyl-1-acylglycerol-3-phosphate O-acyltransferase	0.00429866088060862	-1	0
+rxn10213_c0	stearoyl-1-acylglycerol-3-phosphate O-acyltransferase	0.0129648439964285	-1	0
+rxn10214_c0	isoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	0.0129648439964285	1	0
+rxn10215_c0	anteisoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase	0.0129648439964285	1	0
+rxn10226_c0	isoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	0.00324121099910713	2	0
+rxn10227_c0	anteisoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase	0.00324121099910713	2	0
+rxn10232_c0	isoheptadecanoyl-phosphatidylserine decarboxylase	0.00324121099913555	-2	0
+rxn10233_c0	anteisoheptadecanoyl-phosphatidylserine decarboxylase	0.00324121099913555	-2	0
+rxn10265_c0	isoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase	0.00972363299737822	1	0
+rxn10266_c0	anteisoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase	0.00972363299737822	1	0
+rxn10432_c0	R08198	1000	1	0
+rxn10770_c0	R08557	1000	1	0
+rxn10785_c0	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 7 isopentenyl units)	0.00429866088063591	7	0
+rxn11551_c0	galactitol:NAD+ 1-oxidoreductase	1000	-1	0
+rxn11552_c0	galactitol:NADP+ 1-oxidoreductase	-1000	-1	0
+rxn11713_c0	R08178	1.59161572810262e-12	2	0
+rxn11732_c0	R08198	-1000	1	0
+rxn11742_c0	R08208	1000	2	0
+rxn11810_c0	carboxyphosphamide:NAD+ oxidoreductase	1000	2	0
+rxn11811_c0	carboxyphosphamide:NADP+ oxidoreductase	-1000	2	0
+rxn11968_c0	D-Lysine:2-oxocarboxylate aminotransferase	1000	1	0
+rxn12191_c0	R08558	-1000	1	0
+rxn12510_c0	ATP:pantothenate 4'-phosphotransferase	0.00245894301699604	1	0
+rxn12681_c0	Vanillin: NAD oxidoreductase (34dhbald)	-1.13686837721616e-13	1	0
+rxn12781_c0	RXN-8583.c	-1000	2	0
+rxn12782_c0	RXN-8582.c	-1000	2	0
+rxn13419_c0	3-hydroxy-2-methylbutyryl-CoA-dehydrogenase	-1000	2	0
+rxn13450_c0	Enoyl-CoA-hydratase-1	-1000	-1	0
+rxn13477_c0	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units)	-6.52836012188355e-14	3	0
+rxn13727_c0	NADH dehydrogenase (menaquinone-7 & 4 protons)	173.004622124269	-5	4
+rxn14007_c0	11beta,17beta-dihydroxy-4-androsten-3-one:NAD+ 17-oxidoreductase	-1000	1	0
+rxn14173_c0	nitrite:(acceptor) oxidoreductase	-100	2	0
+rxn14246_c0	L-homocysteine hydrogen-sulfide-lyase	-1000	1	0
+rxn14276_c0	11beta,17beta-dihydroxy-4-androsten-3-one:NADP+ 17-oxidoreductase	1000	1	0
+rxn14382_c0	L-methionine:2-oxo-acid aminotransferase	-1000	1	0
+rxn15025_c0	D-Glucose:NADP+ 1-oxidoreductase	-1000	1	0
+rxn15055_c0	L-ornithine:2-oxoglutarate aminotransferase	0.0653693396807115	1	0
+rxn15072_c0	D-glucose-6-phosphate:NADP+ 1-oxidoreductase	0.0214933044030658	1	0
+rxn15108_c0	ATP:D-ribose-5-phosphate diphosphotransferase	0.238739991326452	1	0
+rxn15122_c0	galactitol:NAD+ 1-oxidoreductase	1000	-1	0
+rxn15123_c0	galactitol:NAD+ 1-oxidoreductase	1000	-1	0
+rxn15126_c0	galactitol:NADP+ 1-oxidoreductase	-1000	-1	0
+rxn15127_c0	galactitol:NADP+ 1-oxidoreductase	-1000	-1	0
+rxn15185_c0	D-xylose:NAD+ 1-oxidoreductase	-1000	1	0
+rxn15189_c0	xylitol:NADP+ oxidoreductase	-1000	1	0
+rxn15238_c0	L-Arabitol:NAD+ 1-oxidoreductase	-1000	1	0
+rxn15239_c0	L-Arabitol:NAD+ 1-oxidoreductase	-1000	1	0
+rxn15240_c0	L-Arabitol:NADP+ 1-oxidoreductase	1000	1	0
+rxn15241_c0	L-Arabitol:NADP+ 1-oxidoreductase	1000	1	0
+rxn15278_c0	Isocitrate:NADP+ oxidoreductase	-1000	1	0
+rxn15317_c0	(S)-Propane-1,2-diol:NAD+ oxidoreductase	-1000	1	0
+rxn15341_c0	Lactaldehyde:NAD+ 1-oxidoreductase	1000	1	0
+rxn15345_c0	Propane-1,2-diol:NAD+ 1-oxidoreductase	1000	1	0
+rxn15346_c0	Propane-1,2-diol:NAD+ 1-oxidoreductase	-1000	1	0
+rxn15395_c0	O-Succinyl-L-homoserine succinate-lyase (adding cysteine)	-999.953323273285	1	0
+rxn15410_c0	alpha-Aminopropiononitrile aminohydrolase	1000	-1	0
+rxn15439_c0	(E)-Glutaconate CoA-transferase	-1000	-1	0
+rxn15466_c0	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	-0.286753164033598	1	0
+rxn15662_c0	D-glucose:NADP+ 1-oxidoreductase	-1000	1	0
+rxn15999_c0	2,4-dichloro-3-oxoadipate:NAD+ oxidoreductase	1000	-1	0
+rxn16000_c0	2,4-dichloro-3-oxoadipate:NADP+ oxidoreductase	-1000	-1	0
+rxn16218_c0	(R)-4-phosphopantoate:beta-alanine ligase (AMP-forming)	2.2063947890949e-14	2	0
+rxn23042_c0	thiamine-phosphate diphosphorylase	0.00122947150849801	-1	0
+rxn33674_c0	Di-trans-poly-cis-decaprenylcistransferase	0.00429866088063591	1	0
+rxn38971_c0	RXN-6903.m.chlamyexp.NADP_NADPH	-1000	1	0
+rxn38972_c0	RXN-6903.m.chlamyexp.NAD_NADH	-1000	-1	0
+rxn90055_c0	Na+ F1FO ATP synthase	4.2632564145606e-14	-1	0
+rxn08689_c0	h2s transport (periplasm)	99.9213238036689	-1	1
+EX_cpd00067_e0	Exchange of H+	2.61319571716012	0	-1
+rxn00470_c0	L-ornithine carboxy-lyase (putrescine-forming)	0.0024589430170181	-1	0
+rxn02897_c0	Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase	0.00122947150850905	1	0
+rxn03538_c0	R05223	0.00122947150850905	1	0
+rxn04413_c0	R06558	0.00122947150850905	1	0
+rxn05275_c0	b-ketoacyl synthetase (Iso-C17:0)	0.025929687992857	-17	0
+rxn05276_c0	b-ketoacyl synthetase (Anteiso-C17:0)	0.025929687992857	-17	0
+rxn08131_c0	4-amino-2-methyl-5-phosphomethylpyrimidine synthetase	0.00122947150849801	4	0
+rxn08233_c0	Chloride/proton antiport	0.00113616846522291	-1	1
+rxn08275_c0	copper transport out via proton antiport	-0.0022723369305595	1	-1
+rxn08311_c0	CDP-diacylglycerol synthetase (n-C18:0)	0.0129648439964285	1	0
+rxn08618_c0	glucosyltransferase I (LPS core synthesis)	0.00429866088063591	4	0
+rxn08708_c0	LPS heptose kinase I (LPS core synthesis)	0.00429866088060862	1	0
+rxn08709_c0	LPS heptose kinase II (LPS core synthesis)	0.00429866088060862	1	0
+rxn08954_c0	3-deoxy-D-manno-octulosonic acid transferase III (LPS core biosynthesis)	0.00429866088060862	1	0
+rxn09225_c0	rhamnosyltransferase I (LPS core biosynthesis)	0.00429866088063591	-4	0
+rxn09427_c0	fatty-acyl-CoA synthase (n-C18:0CoA)	0.025929687992857	-3	0
+rxn10053_c0	phosphoribosylaminoimidazole carboxylase (ATP-dependent)	0.14405664948955	2	0
+rxn10220_c0	isoheptadecanoyl-phosphatidate cytidylyltransferase	0.0129648439964285	1	0
+rxn10221_c0	anteisoheptadecanoyl-phosphatidate cytidylyltransferase	0.0129648439964285	1	0
+rxn15874_c0	dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase (3,5-epimerizing)	-0.00429866088052222	1	0
+rxn15947_c0	carboxyspermidine:NADP+ oxidoreductase	0.00122947150850905	-1	0
+rxn15949_c0	carboxyspermidine carboxy-lyase (spermidine-forming)	0.00122947150850905	-1	0
+rxn23045_c0	glycine oxidase	0.00122947150849801	1	0
+rxn31312_c0	2-oxoglutarate synthase	-92.669932874746	-1	0
+rxn05938_c0	pyruvate ferredoxin oxidoreductase	0.509800457558981	-1	0

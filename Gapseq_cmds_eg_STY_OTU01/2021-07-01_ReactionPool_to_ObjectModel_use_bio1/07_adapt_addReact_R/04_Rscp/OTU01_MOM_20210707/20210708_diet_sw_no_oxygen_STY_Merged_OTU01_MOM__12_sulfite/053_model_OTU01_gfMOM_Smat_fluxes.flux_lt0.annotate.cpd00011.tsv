@@ -1,0 +1,39 @@
+		sol$fluxes	cpd00011[c0]	cpd00011[e0]
+		met_name	CO2[c0]	CO2[e0]
+rxn00102_c0	carbonate hydro-lyase (carbon-dioxide-forming)	-4.91218054672049	1	0
+rxn00114_c0	ATP:carbamate phosphotransferase	1000	-1	0
+rxn00490_c0	L-arogenate hydro-lyase (decarboxylating; L-phenylalanine-forming)	0.0476244470506283	1	0
+rxn00599_c0	succinyl-CoA:glycine C-succinyltransferase (decarboxylating)	0.0171001896437554	1	0
+rxn00710_c0	orotidine-5'-phosphate carboxy-lyase (UMP-forming)	0.0847362082343689	1	0
+rxn01207_c0	4-methyl-2-oxopentanoate:NAD+ oxidoreductase (CoA-mehtylpropanoylating)	0.0225403038515791	1	0
+rxn01268_c0	Prephenate:NAD+ oxidoreductase(decarboxylating)	0.0354477418388797	1	0
+rxn01420_c0	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)	0.0882134644232337	1	0
+rxn02288_c0	Uroporphyrinogen-III carboxy-lyase	0.0010687618528209	4	0
+rxn02341_c0	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase	0.00213752370537058	1	0
+rxn02402_c0	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)	-0.00213752370537058	-1	0
+rxn02507_c0	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)	0.0146120462543057	1	0
+rxn03909_c0	1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)	0.0432419267663509	1	0
+rxn05344_c0	Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	-1.488034912995e-18	1	0
+rxn05345_c0	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	0.0149470556577941	1	0
+rxn09197_c0	Phosphatidylserine decarboxylase (n-C12:0)	7.2567299391757e-13	1	0
+rxn09198_c0	Phosphatidylserine decarboxylase (n-C14:0)	1.4379247345689e-19	1	0
+rxn09200_c0	Phosphatidylserine decarboxylase (n-C16:0)	-1.91330002673379e-15	1	0
+rxn09202_c0	Phosphatidylserine decarboxylase (n-C18:0)	0.0028175379814368	1	0
+rxn10232_c0	isoheptadecanoyl-phosphatidylserine decarboxylase	0.00281753798140016	1	0
+rxn10233_c0	anteisoheptadecanoyl-phosphatidylserine decarboxylase	0.00281753798140016	1	0
+rxn11245_c0	RXN-13158.c	0.138354300088328	1	0
+rxn11663_c0	4-(phosphonooxy)threonine:NAD oxidoreductase	0.00106876185268537	1	0
+rxn12220_c0	coproporphyrinogen oxidase	0.0010687618528209	2	0
+rxn23042_c0	thiamine-phosphate diphosphorylase	0.00106876185268536	1	0
+rxn90070_c0	formate dehydrogenase (ferredoxin)	-0.424143760729919	1	0
+rxn05467_c0	CO2 transporter via diffusion	11.193862219483	1	-1
+EX_cpd00011_e0	Exchange of CO2	-11.193862219483	0	-1
+rxn00470_c0	L-ornithine carboxy-lyase (putrescine-forming)	0.00213752370537074	1	0
+rxn05275_c0	b-ketoacyl synthetase (Iso-C17:0)	0.0225403038515791	6	0
+rxn05276_c0	b-ketoacyl synthetase (Anteiso-C17:0)	0.022540303851579	6	0
+rxn05938_c0	pyruvate ferredoxin oxidoreductase	6.02934334461622	-1	0
+rxn09427_c0	fatty-acyl-CoA synthase (n-C18:0CoA)	0.0225403038521108	1	0
+rxn10053_c0	phosphoribosylaminoimidazole carboxylase (ATP-dependent)	0.125226368023557	-1	0
+rxn15949_c0	carboxyspermidine carboxy-lyase (spermidine-forming)	0.00106876185268136	1	0
+rxn31312_c0	2-oxoglutarate synthase	0.366520907562858	-1	0
+rxn37674_c0	CARBAMATE-KINASE-RXN.d	-999.839227032554	-1	0

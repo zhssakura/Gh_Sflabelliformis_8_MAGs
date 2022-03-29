@@ -1,0 +1,12 @@
+model_name <- addReact(
+  model_name,
+  id='Trans_NH4', 
+  met=c('cpd00013[c0]','cpd00067[e0]','cpd00013[e0]'),
+  metName = c('NH3','H+[e]','NH4'),
+  Scoef=c(1,1,-1),
+  metComp = c(1,1,1,1)
+  reactName = 'Trans_NH4',
+  reversible= FALSE,
+  lb = 0,
+  up = 1000
+)

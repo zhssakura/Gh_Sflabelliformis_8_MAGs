@@ -1,0 +1,52 @@
+Pathway_id	Pathway_nm	EC	ReactID_in_RP	blast_res_in_OM
+PWY-5274	sulfide oxidation II (flavocytochrome c)	1.8.2.3	Copy EC on KEGG and search in the file again.	Blast hit (4x)
+PWY-7927	sulfide oxidation IV (mitochondria)	1.8.3.1	Copy EC on KEGG and search in the file again.	Blast hit (24x)
+PWY-7927	sulfide oxidation IV (mitochondria)	1.8.5.8	Copy EC on KEGG and search in the file again.	NO sequence data found
+PWY-7927	sulfide oxidation IV (mitochondria)	2.8.1.1	R01931	Blast hit (4x)
+PWY-7927	sulfide oxidation IV (mitochondria)	1.13.11.18	Copy EC on KEGG and search in the file again.	Blast hit (3x)
+PWY-7927	sulfide oxidation IV (mitochondria)	1.13.11.18	Copy EC on KEGG and search in the file again.	Blast hit (3x)
+SULFUROX-PWY	sulfur oxidation I (aerobic)	1.13.11.18	Copy EC on KEGG and search in the file again.	Blast hit (3x)
+SULFUROX-PWY	sulfur oxidation I (aerobic)		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+SULFUROX-PWY	sulfur oxidation I (aerobic)	1.13.11.18	Copy EC on KEGG and search in the file again.	Blast hit (3x)
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+PWY-6675	sulfur oxidation IV (intracellular sulfur)		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+PWY-6675	sulfur oxidation IV (intracellular sulfur)		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	2.8.1		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	1.8.99.5	Copy EC on KEGG and search in the file again.	Blast hit (12x)
+PWY-6675	sulfur oxidation IV (intracellular sulfur)	1.8.99.5	Copy EC on KEGG and search in the file again.	Blast hit (12x)
+PWY-5326	sulfite oxidation IV	1.8.3.1	Copy EC on KEGG and search in the file again.	Blast hit (24x)
+PWY-5276	sulfite oxidation I	1.8.2.1	Copy EC on KEGG and search in the file again.	Blast hit (24x)
+PWY-7457	sulfite oxidation V (SoeABC)	1.8.5.6	Copy EC on KEGG and search in the file again.	Blast hit (4x)
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	2.8.5.2	Copy EC on KEGG and search in the file again.	Blast hit (4x)
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	3.1.6.20	Copy EC on KEGG and search in the file again.	Blast hit (20x)
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	2.8.5.2	Copy EC on KEGG and search in the file again.	Blast hit (4x)
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	3.1.6.20	Copy EC on KEGG and search in the file again.	Blast hit (20x)
+PWY-5296	thiosulfate oxidation III (multienzyme complex)	1.8.2.6	Copy EC on KEGG and search in the file again.	NO sequence data found
+P23-PWY	reductive TCA cycle I	4.2.1.2	R01082	Blast hit (18x)
+P23-PWY	reductive TCA cycle I	6.2.1.5	R02404	Blast hit (88x)
+P23-PWY	reductive TCA cycle I	1.2.7.3	R01197	NO blast hit
+P23-PWY	reductive TCA cycle I	4.2.1.3	R01900	Blast hit (28x)
+P23-PWY	reductive TCA cycle I	4.2.1.3	R01900	Blast hit (28x)
+P23-PWY	reductive TCA cycle I	2.3.3.8	Copy EC on KEGG and search in the file again.	Blast hit (4x)
+P23-PWY	reductive TCA cycle I	1.2.7.1	R01196	NO blast hit
+P23-PWY	reductive TCA cycle I	2.7.9.2	Copy EC on KEGG and search in the file again.	NO blast hit
+P23-PWY	reductive TCA cycle I	4.1.1.31	Copy EC on KEGG and search in the file again.	Blast hit (40x)
+P23-PWY	reductive TCA cycle I	1.1.1.42	R00267	Blast hit (12x)
+P23-PWY	reductive TCA cycle I	1.1.1.37	R00342	Blast hit (52x)
+P23-PWY	reductive TCA cycle I	1.3.5.4	Copy EC on KEGG and search in the file again.	Blast hit (8x)
+PWY-5392	reductive TCA cycle II	4.2.1.2	R01082	Blast hit (18x)
+PWY-5392	reductive TCA cycle II	6.2.1.5	R02404	Blast hit (88x)
+PWY-5392	reductive TCA cycle II	1.2.7.3	R01197	NO blast hit
+PWY-5392	reductive TCA cycle II	4.2.1.3	R01900	Blast hit (28x)
+PWY-5392	reductive TCA cycle II	4.2.1.3	R01900	Blast hit (28x)
+PWY-5392	reductive TCA cycle II	1.2.7.1	R01196	NO blast hit
+PWY-5392	reductive TCA cycle II	6.2.1.18	Copy EC on KEGG and search in the file again.	NO blast hit
+PWY-5392	reductive TCA cycle II	4.1.3.34	R00354	Blast hit (4x)
+PWY-5392	reductive TCA cycle II	6.4.1.7	Copy EC on KEGG and search in the file again.	NO hit because of missing subunits
+PWY-5392	reductive TCA cycle II	1.1.1		Copy EC on KEGG and search in the file again.	No EC for this reaction in gapseq db
+PWY-5392	reductive TCA cycle II	1.1.1.37	R00342	Blast hit (52x)
+PWY-5392	reductive TCA cycle II	1.3.5.4	Copy EC on KEGG and search in the file again.	Blast hit (8x)
+PWY-1263	taurine degradation I	2.6.1.77	Copy EC on KEGG and search in the file again.	Blast hit (8x)
+TAURINEDEG-PWY	taurine degradation III	2.6.1.55	Copy EC on KEGG and search in the file again.	Blast hit (8x)

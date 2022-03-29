@@ -1,0 +1,10 @@
+		sol$fluxes	cpd00015[c0]
+		met_name	FAD[c0]
+rxn00122_c0	ATP:FMN adenylyltransferase	0.00106876185270721	1
+rxn00288_c0	Succinate:(acceptor) oxidoreductase	0.228660920971731	-1
+rxn02270_c0	Branched-chain acyl-CoA dehydrogenase	-0.0225403038516561	-1
+rxn02679_c0	Octanoyl-CoA:oxygen 2-oxidoreductase	-0.044960887338334	-1
+rxn02720_c0	Lauroyl-CoA:(acceptor) 2,3-oxidoreductase	-0.044960887338334	-1
+rxn02803_c0	Tetradecanoyl-CoA:(acceptor) 2,3-oxidoreductase	-0.0262770677667277	-1
+rxn03251_c0	Hexanoyl-CoA:(acceptor) 2,3-oxidoreductase	-0.044960887338334	-1
+rxn03253_c0	Decanoyl-CoA:(acceptor) 2,3-oxidoreductase	-0.044960887338334	-1

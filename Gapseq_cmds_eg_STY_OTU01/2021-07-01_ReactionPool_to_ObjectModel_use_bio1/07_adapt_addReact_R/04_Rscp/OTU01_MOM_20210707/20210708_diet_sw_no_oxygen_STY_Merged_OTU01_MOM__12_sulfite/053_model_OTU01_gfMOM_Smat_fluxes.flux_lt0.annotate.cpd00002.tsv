@@ -1,0 +1,90 @@
+		sol$fluxes	cpd00002[c0]	cpd00002[e0]
+		met_name	ATP[c0]	ATP[e0]
+rxn00077_c0	ATP:NAD+ 2'-phosphotransferase	0.00106876185268529	-1	0
+rxn00097_c0	ATP:AMP phosphotransferase	1.59934670484404	-1	0
+rxn00100_c0	ATP:dephospho-CoA 3'-phosphotransferase	0.00213752370537058	-1	0
+rxn00114_c0	ATP:carbamate phosphotransferase	1000	-1	0
+rxn00117_c0	ATP:UDP phosphotransferase	0.107946058071548	-1	0
+rxn00119_c0	ATP:UMP phosphotransferase	0.0922097360631824	-1	0
+rxn00122_c0	ATP:FMN adenylyltransferase	0.00106876185270721	-1	0
+rxn00124_c0	ATP:pyridoxal 5'-phosphotransferase	-4.01219855949986e-15	-1	0
+rxn00126_c0	ATP:L-methionine S-adenosyltransferase	0.00320628555863704	-1	0
+rxn00134_c0	ATP:adenosine 5'-phosphotransferase	0.00213752370575596	-1	0
+rxn00138_c0	deamido-NAD+:ammonia ligase (AMP-forming)	0.00213752370537058	-1	0
+rxn00147_c0	ATP:pyruvate,water phosphotransferase	0.98410914117988	-1	0
+rxn00172_c0	Acetate:CoA ligase (ADP-forming)	1000	-1	0
+rxn00179_c0	ATP:L-glutamate 5-phosphotransferase	0.134998907238696	-1	0
+rxn00225_c0	ATP:acetate phosphotransferase	-999.992526472171	-1	0
+rxn00237_c0	ATP:GDP phosphotransferase	0.144815666316845	-1	0
+rxn00239_c0	ATP:GMP phosphotransferase	0.0683872841542552	-1	0
+rxn00250_c0	Pyruvate:carbon-dioxide ligase (ADP-forming)	4.60207201728713	-1	0
+rxn00257_c0	acetyl-CoA:oxaloacetate C-acetyltransferase [(pro-S)-carboxymethyl-forming, ADP-phosphorylating]	3.41620270418741	-1	0
+rxn00285_c0	Succinate:CoA ligase (ADP-forming)	4.34752500638956	-1	0
+rxn00337_c0	ATP:L-aspartate 4-phosphotransferase	0.185277744407131	-1	0
+rxn00351_c0	gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)	0.00106876185268537	-1	0
+rxn00364_c0	ATP:CMP phosphotransferase	0.0861251505817397	-1	0
+rxn00392_c0	ATP:riboflavin 5'-phosphotransferase	0.00106876185268537	-1	0
+rxn00409_c0	ATP:CDP phosphotransferase	0.0792235147451947	-1	0
+rxn00410_c0	UTP:ammonia ligase (ADP-forming)	0.0411085160863463	-1	0
+rxn00416_c0	L-aspartate:L-glutamine amido-ligase (AMP-forming)	0.0619658998556435	-1	0
+rxn00438_c0	ATP:thiamin-phosphate phosphotransferase	0.00106876185268536	-1	0
+rxn00515_c0	ATP:IDP phosphotransferase	-1000	-1	0
+rxn00615_c0	ATP:glycerol 3-phosphotransferase	0.0084526139443763	-1	0
+rxn00646_c0	L-glutamate:L-cysteine gamma-ligase (ADP-forming)	0.00106876185268537	-1	0
+rxn00669_c0	Propanoate:CoA ligase (ADP-forming)	-1000	-1	0
+rxn00690_c0	Formate:tetrahydrofolate ligase (ADP-forming)	0.435900141109446	-1	0
+rxn00770_c0	ATP:D-ribose-5-phosphate diphosphotransferase	0.253203080346751	-1	0
+rxn00789_c0	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase	-0.024353410423756	1	0
+rxn00839_c0	ATP:dADP phosphotransferase	0.00668426147888113	-1	0
+rxn00916_c0	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)	0.0673185223014825	-1	0
+rxn00934_c0	(S)-Malate:CoA ligase (ADP-forming)	1000	-1	0
+rxn00947_c0	Palmitate:CoA ligase (AMP-forming)	-1.19268126695644e-13	-1	0
+rxn01100_c0	ATP:3-phospho-D-glycerate 1-phosphotransferase	7.74867318028794	-1	0
+rxn01300_c0	ATP:L-homoserine O-phosphotransferase	0.0652130212454588	-1	0
+rxn01353_c0	ATP:dGDP phosphotransferase	0.0069016358359022	-1	0
+rxn01434_c0	L-Citrulline:L-aspartate ligase (AMP-forming)	0.0760367592115101	-1	0
+rxn01512_c0	ATP:dTDP phosphotransferase	0.0104210253932706	-1	0
+rxn01513_c0	ATP:dTMP phosphotransferase	0.00668426147888113	-1	0
+rxn01517_c0	ATP:dUMP phosphotransferase	-0.00668426147888113	-1	0
+rxn01603_c0	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)	0.00320628555804408	-1	0
+rxn01673_c0	ATP:dCDP phosphotransferase	0.00690163583647063	-1	0
+rxn01678_c0	ATP:dUDP phosphotransferase	-6.82121026329696e-13	-1	0
+rxn01731_c0	Itaconate:CoA ligase (ADP-forming)	1000	-1	0
+rxn01739_c0	ATP:shikimate 3-phosphotransferase	0.100890520701796	-1	0
+rxn01791_c0	(R)-Pantoate:beta-alanine ligase (AMP-forming)	0.00213752370537058	-1	0
+rxn02008_c0	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)	0.00373676391450317	-1	0
+rxn02009_c0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:L-lysine gamma-ligase (ADP-forming)	5.46472589402214e-14	-1	0
+rxn02011_c0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming)	0.00373676391444852	-1	0
+rxn02155_c0	ATP:nicotinamide-nucleotide adenylyltransferase	0.00213752370541442	-1	0
+rxn02175_c0	ATP:pantetheine-4'-phosphate adenylyltransferase	0.00213752370541442	-1	0
+rxn02286_c0	UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)	0.00373676391450317	-1	0
+rxn02895_c0	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)	0.126295129876243	-1	0
+rxn02937_c0	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)	0.126295129876243	-1	0
+rxn03084_c0	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)	0.126295129876243	-1	0
+rxn03108_c0	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase	0.00106876185270721	-1	0
+rxn03147_c0	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)	0.125226368023557	-1	0
+rxn03164_c0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)	0.00373676391444852	-1	0
+rxn03181_c0	ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase	0.00373676391438948	-1	0
+rxn03908_c0	ATP:4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol 2-phosphotransferase	0.0411044030609801	-1	0
+rxn03916_c0	ATP:D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase	0.0149470556577853	-1	0
+rxn03918_c0	ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase	0.014947055657738	-1	0
+rxn05029_c0	ATP:cobinamide Cobeta-adenosyltransferase	0.00106876185270721	-1	0
+rxn05149_c0	ABC-type manganese permease complex	0.00197530972532582	-1	0
+rxn05164_c0	ATP phosphohydrolase (polar-amino-acid-importing)	-1.4063403219744e-13	-1	0
+rxn05251_c0	FACOAL170(anteiso)	0.022540303851579	-1	0
+rxn05252_c0	FACOAL170(ISO)	0.0225403038515791	-1	0
+rxn05555_c0	iron (II) transport via ABC system	0.00608814315735969	-1	0
+rxn06672_c0	biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)	0.310108529433364	-1	0
+rxn08020_c0	laurate-[acyl-carrier-protein] ligase	0.0186838195722885	-1	0
+rxn08194_c0	ATP:cob(I)alamin Co-beta-adenosyltransferase	-0.00106876185270721	-1	0
+rxn08454_c0	fatty-acid-CoA ligase (octadecanoate transport via vectoral Co-A coupling)	2.92355939334396e-14	-1	0
+rxn08457_c0	fatty-acid-CoA ligase (octanoate transport via vectoral Co-A coupling)	-3.07531777821168e-14	-1	0
+rxn10091_c0	cob(I)alamin adenosyltransferase	0.00106876185270721	-1	0
+rxn12510_c0	ATP:pantothenate 4'-phosphotransferase	0.00213752370537058	-1	0
+rxn12512_c0	(R)-4'-Phosphopantothenate:L-cysteine ligase	0.00213752370537058	-1	0
+rxn25839_c0	ATP:[ThiS] adenylyltransferase	0.00106876185268536	-1	0
+rxn08708_c0	LPS heptose kinase I (LPS core synthesis)	0.00373676391443449	-1	0
+rxn08709_c0	LPS heptose kinase II (LPS core synthesis)	0.00373676391443449	-1	0
+rxn10053_c0	phosphoribosylaminoimidazole carboxylase (ATP-dependent)	0.125226368023557	-1	0
+rxn27727_c0	coupling factors (F0, F1 and CF1)	36.9489193478829	1	0
+rxn37674_c0	CARBAMATE-KINASE-RXN.d	-999.839227032554	-1	0

@@ -1,0 +1,5 @@
+		sol$fluxes	cpd00109[c0]	cpd00109[e0]
+		met_name	Cytochrome c oxidized[c0]	Cytochrome c oxidized[e0]
+rxn00058_c0	Ferrocytochrome-c:oxygen oxidoreductase	36.5023110621346	4	0
+rxn10044_c0	cytochrome-c reductase (menaquinol 7: 3 protons)	173.004622124269	-2	0
+rxn14173_c0	nitrite:(acceptor) oxidoreductase	-100	-2	0

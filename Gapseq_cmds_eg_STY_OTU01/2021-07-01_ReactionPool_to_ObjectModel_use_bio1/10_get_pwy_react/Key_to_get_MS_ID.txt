@@ -1,0 +1,49 @@
+Key	Type	Reactions
+1.1.1	EC	PWY-5392_reductive TCA cycle II
+1.1.1.37	EC	P23-PWY_reductive TCA cycle I
+1.1.1.37	EC	PWY-5392_reductive TCA cycle II
+1.1.1.42	EC	P23-PWY_reductive TCA cycle I
+1.13.11.18	EC	PWY-7927_sulfide oxidation IV (mitochondria)
+1.13.11.18	EC	PWY-7927_sulfide oxidation IV (mitochondria)
+1.13.11.18	EC	SULFUROX-PWY_sulfur oxidation I (aerobic)
+1.13.11.18	EC	SULFUROX-PWY_sulfur oxidation I (aerobic)
+1.2.7.1	EC	P23-PWY_reductive TCA cycle I
+1.2.7.1	EC	PWY-5392_reductive TCA cycle II
+1.2.7.3	EC	P23-PWY_reductive TCA cycle I
+1.2.7.3	EC	PWY-5392_reductive TCA cycle II
+1.3.5.4	EC	P23-PWY_reductive TCA cycle I
+1.3.5.4	EC	PWY-5392_reductive TCA cycle II
+1.8.2.1	EC	PWY-5276_sulfite oxidation I
+1.8.2.3	EC	PWY-5274_sulfide oxidation II (flavocytochrome c)
+1.8.2.6	EC	PWY-5296_thiosulfate oxidation III (multienzyme complex)
+1.8.3.1	EC	PWY-7927_sulfide oxidation IV (mitochondria)
+1.8.3.1	EC	PWY-5326_sulfite oxidation IV
+1.8.5.6	EC	PWY-7457_sulfite oxidation V (SoeABC)
+1.8.5.8	EC	PWY-7927_sulfide oxidation IV (mitochondria)
+1.8.99.5	EC	PWY-6675_sulfur oxidation IV (intracellular sulfur)
+1.8.99.5	EC	PWY-6675_sulfur oxidation IV (intracellular sulfur)
+2.3.3.8	EC	P23-PWY_reductive TCA cycle I
+2.6.1.55	EC	TAURINEDEG-PWY_taurine degradation III
+2.6.1.77	EC	PWY-1263_taurine degradation I
+2.7.9.2	EC	P23-PWY_reductive TCA cycle I
+2.8.1	EC	PWY-6675_sulfur oxidation IV (intracellular sulfur)
+2.8.1	EC	PWY-6675_sulfur oxidation IV (intracellular sulfur)
+2.8.1	EC	PWY-6675_sulfur oxidation IV (intracellular sulfur)
+2.8.1	EC	PWY-6675_sulfur oxidation IV (intracellular sulfur)
+2.8.1.1	EC	PWY-7927_sulfide oxidation IV (mitochondria)
+2.8.5.2	EC	PWY-5296_thiosulfate oxidation III (multienzyme complex)
+2.8.5.2	EC	PWY-5296_thiosulfate oxidation III (multienzyme complex)
+3.1.6.20	EC	PWY-5296_thiosulfate oxidation III (multienzyme complex)
+3.1.6.20	EC	PWY-5296_thiosulfate oxidation III (multienzyme complex)
+4.1.1.31	EC	P23-PWY_reductive TCA cycle I
+4.1.3.34	EC	PWY-5392_reductive TCA cycle II
+4.2.1.2	EC	P23-PWY_reductive TCA cycle I
+4.2.1.2	EC	PWY-5392_reductive TCA cycle II
+4.2.1.3	EC	P23-PWY_reductive TCA cycle I
+4.2.1.3	EC	P23-PWY_reductive TCA cycle I
+4.2.1.3	EC	PWY-5392_reductive TCA cycle II
+4.2.1.3	EC	PWY-5392_reductive TCA cycle II
+6.2.1.18	EC	PWY-5392_reductive TCA cycle II
+6.2.1.5	EC	P23-PWY_reductive TCA cycle I
+6.2.1.5	EC	PWY-5392_reductive TCA cycle II
+6.4.1.7	EC	PWY-5392_reductive TCA cycle II

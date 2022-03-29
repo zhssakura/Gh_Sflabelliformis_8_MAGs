@@ -1,0 +1,353 @@
+Key	Type	Reactions	MetaCyc	EC	MSID
+1.14.99.39	EC	AMMOXID-PWY_ammonia oxidation I (aerobic)	NA	NA	rxn14010
+1.14.99.39	EC	AMMOXID-PWY_ammonia oxidation I (aerobic)	NA	NA	rxn16361
+1.14.99.39	EC	AMMOXID-PWY_ammonia oxidation I (aerobic)	NA	NA	rxn19165
+nuoA	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoA	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoA	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoB	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoB	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoB	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoC	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoC	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoC	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoG	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoG	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoG	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoI	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoI	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoI	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoJ	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoJ	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoJ	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoK	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoK	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoK	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoL	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoL	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoL	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoM	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoM	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoM	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoN	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoN	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoN	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+1.6.5.9	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn06108
+1.6.5.9	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn20240
+1.6.5.9	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn37813
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn05796
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn20262
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn39005
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn39006
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn39007
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	NA	NA	rxn39008
+nadB	gene	Complex II_Ca.Nitrospira_dfluvii	L-ASPARTATE-OXID-RXN	1.4.3.16	rxn00262
+nadB	gene	Complex II_Ca.Nitrospira_dfluvii	L-ASPARTATE-OXID-RXN	1.4.3.16	rxn00338
+nadB	gene	Complex II_Ca.Nitrospira_dfluvii	L-ASPARTATE-OXID-RXN	1.4.3.16	rxn08168
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-GLN-RXN	6.3.5.1	rxn00138
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-GLN-RXN	6.3.5.1	rxn00190
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-NH3-RXN	6.3.1.5	rxn00138
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-NH3-RXN	6.3.1.5	rxn30039
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn06109
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn09272
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn09417
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn27229
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn33444
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn37562
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn37563
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn37641
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn38991
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn38995
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn00288
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn06109
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn09272
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn09417
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn27229
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn33444
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn37562
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn37563
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn37641
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn38991
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn38995
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn00288
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn00634
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn04943
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn24346
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn37282
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn00288
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn05836
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn08527
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn08528
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn09272
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn13706
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn13707
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	NA	NA	rxn27226
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn06106
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn10044
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn12750
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn13689
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn16999
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn27461
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn37579
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn37580
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn37650
+7.1.1.8	EC	Complex III_Ca.Nitrospira_dfluvii	NA	NA	rxn13689
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	NA	NA	rxn00062
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	NA	NA	rxn08173
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	NA	NA	rxn13766
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	NA	NA	rxn27727
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn00379
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn03373
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn27259
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn34004
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	1.8.4.10	rxn05256
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	1.8.4.10	rxn22316
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn05239
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn09069
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn17275
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn27490
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn37904
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	1.8.4.9	rxn03983
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	1.8.4.9	rxn23130
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	1.8.4.9	rxn34005
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn00379
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn03373
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn27259
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn34004
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn03371
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn05903
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn11934
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn13994
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn19074
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn27687
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	2.8.1.3	rxn06060
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	2.8.1.3	rxn24684
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.5.4	rxn20673
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn00379
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn03373
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn27259
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn34004
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.2.1.11	rxn01643
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.2.1.11	rxn33374
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.2.1.11	rxn33956
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.1.25	rxn00361
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.1.25	rxn03372
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.1.25	rxn34004
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn00623
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn02570
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn06418
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn34008
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn00379
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn03373
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn27259
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn34004
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn00379
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn03373
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn27259
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn34004
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-19040	2.8.1.1	rxn01416
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-19040	2.8.1.1	rxn27322
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn01416
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn27322
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02229
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02230
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn03524
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn32855
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02229
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02230
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn03524
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn32855
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn01416
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn27322
+soxB	gene	K17224_Sulfer metabolism in Cenarchaeota_I.ramosa	SARCOX-RXN	1.5.3.1	rxn00433
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn00820
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn05748
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn05896
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn06110
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn09000
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn09001
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn09002
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn12296
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn13732
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn13733
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn14173
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn14358
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn20280
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn26381
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn37454
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn37455
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	NA	NA	rxn37456
+1.1.1.298	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn16149
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn01451
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03239
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03242
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03244
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03246
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03249
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03287
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03289
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03860
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn04750
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn06037
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn06777
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07680
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07684
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07688
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07883
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn08700
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn15495
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn15510
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn20473
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21061
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21065
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21066
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21572
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn23121
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn23125
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn23153
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn27454
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn30548
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn31677
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn31684
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn31720
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn32645
+1.2.1.75	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00532
+1.2.1.76	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn16140
+1.3.1.84	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00668
+2.1.3.15	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn05321
+2.1.3.15	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn06673
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00598
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00676
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00874
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn02680
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn02804
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03243
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03248
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03288
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03796
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn05831
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn06510
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07681
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07685
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07689
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07727
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07743
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07880
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn07884
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn08767
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn16680
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn19961
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21062
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21063
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21064
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn21573
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn23126
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn31685
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn32881
+2.3.1.9	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00178
+2.3.1.9	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00874
+2.3.1.9	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn23003
+4.2.1.1	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00102
+4.2.1.116	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn02181
+4.2.1.120	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03642
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn02167
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn02168
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn03874
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn27538
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn19669
+5.1.99.1	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn01996
+5.1.99.1	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn16825
+5.4.99.2	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn00602
+6.2.1.36	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn16146
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn06672
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn19235
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn27736
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn31681
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn05320
+6.4.1.3	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn01355
+6.4.1.3	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn14157
+6.4.1.3	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	NA	rxn26656
+R00238	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn00178
+R00238	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	2.3.1.9	rxn00178
+R00238	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	2.3.1.9	rxn00874
+R00238	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	2.3.1.9	rxn23003
+R00833	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn00602
+R00833	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	5.4.99.2	rxn00602
+R00919	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn00668
+R00919	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.3.1.84	rxn00668
+R01859	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn01355
+R01859	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	6.4.1.3	rxn01355
+R01859	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	6.4.1.3	rxn14157
+R01859	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	6.4.1.3	rxn26656
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn01451
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn01451
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03239
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03242
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03244
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03246
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03249
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03287
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03289
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn03860
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn04750
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn06037
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn06777
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn07680
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn07684
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn07688
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn07883
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn08700
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn15495
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn15510
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn20473
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn21061
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn21065
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn21066
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn21572
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn23121
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn23125
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn23153
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn27454
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn30548
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn31677
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn31684
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn31720
+R01975	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.35	rxn32645
+R02765	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn01996
+R02765	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	5.1.99.1	rxn01996
+R02765	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	5.1.99.1	rxn16825
+R09280	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn16140
+R09280	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.2.1.76	rxn16140
+R09289	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	ko_to_ms	rxn16149
+R09289	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	1.1.1.298	rxn16149
+R10782	kegg	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	NA	4.2.1.120	rxn03642
+7.1.1.5	EC	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	NA	rxn08287
+7.1.1.5	EC	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	NA	rxn90021
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	7.1.1.2	rxn13726
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn06109
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn09272
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn09417
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn27229
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn33444
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn37562
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn37563
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn37641
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn38991
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn38995
+RXN0-5266	metacyc	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.3.5.1	rxn00288
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.1.1.283	rxn01618
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.1.1.283	rxn04937
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.1.1.283	rxn15660
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.1.1.283	rxn16883
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	1.1.1	rxn13226
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.6.1.27	rxn00483
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.6.1.27	rxn01947
+R11885	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.6.1.27	rxn06810
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn06718
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn07070
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn17510
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn21612
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn21617
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn21659
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn21662
+R11886	kegg	Terminal oxidases_Ca.Nitrospira_dfluvii	NA	2.4.1.129	rxn26334

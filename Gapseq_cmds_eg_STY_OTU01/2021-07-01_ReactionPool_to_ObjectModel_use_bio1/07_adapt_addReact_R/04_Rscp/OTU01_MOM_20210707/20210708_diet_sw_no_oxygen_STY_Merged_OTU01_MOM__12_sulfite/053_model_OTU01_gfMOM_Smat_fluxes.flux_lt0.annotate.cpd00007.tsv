@@ -1,0 +1,9 @@
+		sol$fluxes	cpd00007[c0]	cpd00007[e0]
+		met_name	O2[c0]	O2[e0]
+rxn00006_c0	hydrogen-peroxide:hydrogen-peroxide oxidoreductase	0.0016031427791745	1	0
+rxn00056_c0	Fe(II):oxygen oxidoreductase	0.000493827431499071	-1	0
+rxn12220_c0	coproporphyrinogen oxidase	0.0010687618528209	-2	0
+rxn05468_c0	TRANS-RXNAVI-26568.ce	38.1319664549133	1	-1
+EX_cpd00007_e0	Exchange of O2	-38.1319664549133	0	-1
+rxn10043_c0	cytochrome-c oxidase (H+/e- = 2)	76.2597389694061	-0.5	0
+rxn23045_c0	glycine oxidase	0.00106876185268536	-1	0

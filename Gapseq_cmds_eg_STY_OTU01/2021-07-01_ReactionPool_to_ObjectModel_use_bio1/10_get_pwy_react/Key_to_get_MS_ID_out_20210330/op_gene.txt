@@ -1,0 +1,128 @@
+Key	Type	Reactions	MetaCyc	EC	MSID
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn03371
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn05903
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn11934
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn13994
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn19074
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.99.2	rxn27687
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	2.8.1.3	rxn06060
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	2.8.1.3	rxn24684
+aprB	gene	K00395_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFATE-REDUCTASE-RXN	1.8.5.4	rxn20673
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn00379
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn03373
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn27259
+met3	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn34004
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn00379
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn03373
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn27259
+sat	gene	K00958_Sulfer metabolism in Cenarchaeota_I.ramosa	SULFATE-ADENYLYLTRANS-RXN	2.7.7.4	rxn34004
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn00379
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn03373
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn27259
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.7.4	rxn34004
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.2.1.11	rxn01643
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.2.1.11	rxn33374
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.2.1.11	rxn33956
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.1.25	rxn00361
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.1.25	rxn03372
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	2.7.1.25	rxn34004
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn00623
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn02570
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn06418
+cysC	gene	K00860_Sulfer metabolism in Cenarchaeota_I.ramosa	ADENYLYLSULFKIN-RXN	1.8.1.2	rxn34008
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn00379
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn03373
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn27259
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	2.7.7.4	rxn34004
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	1.8.4.10	rxn05256
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-12019	1.8.4.10	rxn22316
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn05239
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn09069
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn17275
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn27490
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.8-RXN	1.8.4.8	rxn37904
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	1.8.4.9	rxn03983
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	1.8.4.9	rxn23130
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	1.8.4.9	rxn34005
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn00379
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn03373
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn27259
+cysH	gene	K00390_Sulfer metabolism in Cenarchaeota_I.ramosa	1.8.4.9-RXN	2.7.7.4	rxn34004
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-19040	2.8.1.1	rxn01416
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	RXN-19040	2.8.1.1	rxn27322
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn01416
+TST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn27322
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02229
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02230
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn03524
+MPST	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn32855
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02229
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn02230
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn03524
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	MERCAPYSTRANS-RXN	2.8.1.2	rxn32855
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn01416
+sseA	gene	K01011_Sulfer metabolism in Cenarchaeota_I.ramosa	THIOSULFATE-SULFURTRANSFERASE-RXN	2.8.1.1	rxn27322
+soxB	gene	K17224_Sulfer metabolism in Cenarchaeota_I.ramosa	SARCOX-RXN	1.5.3.1	rxn00433
+nuoA	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoA	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoA	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoB	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoB	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoB	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoC	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoC	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoC	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoG	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoG	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoG	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoI	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoI	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoI	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoJ	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoJ	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoJ	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoK	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoK	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoK	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoL	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoL	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoL	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoM	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoM	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoM	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nuoN	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn06108
+nuoN	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn20240
+nuoN	gene	Complex I_Ca.Nitrospira_dfluvii	RXN0-5330	1.6.5.9	rxn37813
+nadB	gene	Complex II_Ca.Nitrospira_dfluvii	L-ASPARTATE-OXID-RXN	1.4.3.16	rxn00262
+nadB	gene	Complex II_Ca.Nitrospira_dfluvii	L-ASPARTATE-OXID-RXN	1.4.3.16	rxn00338
+nadB	gene	Complex II_Ca.Nitrospira_dfluvii	L-ASPARTATE-OXID-RXN	1.4.3.16	rxn08168
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-GLN-RXN	6.3.5.1	rxn00138
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-GLN-RXN	6.3.5.1	rxn00190
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-NH3-RXN	6.3.1.5	rxn00138
+nadE	gene	Complex II_Ca.Nitrospira_dfluvii	NAD-SYNTH-NH3-RXN	6.3.1.5	rxn30039
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn06109
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn09272
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn09417
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn27229
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn33444
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn37562
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn37563
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn37641
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn38991
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn38995
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-14971	1.3.5.1	rxn00288
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn06109
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn09272
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn09417
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn27229
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn33444
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn37562
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn37563
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn37641
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn38991
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn38995
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	1.3.5.1	rxn00288
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn00634
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn04943
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn24346
+sdhA	gene	Complex II_Ca.Nitrospira_dfluvii	RXN-7644	1.1.1.14	rxn37282

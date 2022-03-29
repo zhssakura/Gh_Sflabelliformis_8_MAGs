@@ -1,0 +1,144 @@
+Key	Type	Reactions	MSID
+1.1.1.298	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn16149
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn01451
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03239
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03242
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03244
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03246
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03249
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03287
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03289
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03860
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn04750
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn06037
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn06777
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07680
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07684
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07688
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07883
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn08700
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn15495
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn15510
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn20473
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21061
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21065
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21066
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21572
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn23121
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn23125
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn23153
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn27454
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn30548
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn31677
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn31684
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn31720
+1.1.1.35	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn32645
+1.14.99.39	EC	AMMOXID-PWY_ammonia oxidation I (aerobic)	rxn14010
+1.14.99.39	EC	AMMOXID-PWY_ammonia oxidation I (aerobic)	rxn16361
+1.14.99.39	EC	AMMOXID-PWY_ammonia oxidation I (aerobic)	rxn19165
+1.2.1.75	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00532
+1.2.1.76	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn16140
+1.3.1.84	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00668
+2.1.3.15	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn05321
+2.1.3.15	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn06673
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00598
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00676
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00874
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn02680
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn02804
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03243
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03248
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03288
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03796
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn05831
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn06510
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07681
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07685
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07689
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07727
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07743
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07880
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn07884
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn08767
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn16680
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn19961
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21062
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21063
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21064
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn21573
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn23126
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn31685
+2.3.1.16	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn32881
+2.3.1.9	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00178
+2.3.1.9	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00874
+2.3.1.9	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn23003
+4.2.1.1	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00102
+4.2.1.116	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn02181
+4.2.1.120	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03642
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn02167
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn02168
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn03874
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn27538
+4.2.1.150	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn19669
+5.1.99.1	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn01996
+5.1.99.1	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn16825
+5.4.99.2	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn00602
+6.2.1.36	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn16146
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn06672
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn19235
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn27736
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn31681
+6.3.4.14	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn05320
+6.4.1.3	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn01355
+6.4.1.3	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn14157
+6.4.1.3	EC	PWY-5789_3-hydroxypropanoate/4-hydroxybutanate cycle	rxn26656
+1.6.5.9	EC	Complex I_Ca.Nitrospira_dfluvii	rxn06108
+1.6.5.9	EC	Complex I_Ca.Nitrospira_dfluvii	rxn20240
+1.6.5.9	EC	Complex I_Ca.Nitrospira_dfluvii	rxn37813
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	rxn05796
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	rxn20262
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	rxn39005
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	rxn39006
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	rxn39007
+1.6.99.5	EC	Complex I_Ca.Nitrospira_dfluvii	rxn39008
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn00288
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn05836
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn08527
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn08528
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn09272
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn13706
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn13707
+1.3.99.1	EC	Complex II_Ca.Nitrospira_dfluvii	rxn27226
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn06106
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn10044
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn12750
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn13689
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn16999
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn27461
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn37579
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn37580
+1.10.2.2	EC	Complex III_Ca.Nitrospira_dfluvii	rxn37650
+7.1.1.8	EC	Complex III_Ca.Nitrospira_dfluvii	rxn13689
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	rxn00062
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	rxn08173
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	rxn13766
+3.6.3.14	EC	Complex V_Ca.Nitrospira_dfluvii	rxn27727
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn00820
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn05748
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn05896
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn06110
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn09000
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn09001
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn09002
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn12296
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn13732
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn13733
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn14173
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn14358
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn20280
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn26381
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn37454
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn37455
+1.7.99.4	EC	nxrAB_Ca.Nitrospira_dfluvii	rxn37456
+7.1.1.5	EC	Terminal oxidases_Ca.Nitrospira_dfluvii	rxn08287
+7.1.1.5	EC	Terminal oxidases_Ca.Nitrospira_dfluvii	rxn90021

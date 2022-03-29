@@ -1,0 +1,20 @@
+		sol$fluxes	cpd00020[c0]
+		met_name	Pyruvate[c0]
+rxn00191_c0	L-Alanine:2-oxoglutarate aminotransferase	-1000	1
+rxn00282_c0	L-alanine:oxaloacetate aminotransferase	99.8450249165126	1
+rxn00491_c0	L-phenylalanine:pyruvate aminotransferase	1000	-1
+rxn00656_c0	L-Alanine:3-oxopropanoate aminotransferase	1000	1
+rxn00678_c0	(S)-2-Methyl-3-oxopropanoyl-CoA:pyruvate carboxyltransferase	0.025929687992857	-1
+rxn00726_c0	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)	0.0168092587750401	1
+rxn00849_c0	D-Alanine:2-oxoglutarate aminotransferase	-0.00859732176127181	1
+rxn00904_c0	L-Valine:pyruvate aminotransferase	-1000	-1
+rxn01482_c0	(R)-3-Amino-2-methylpropanoate:pyruvate aminotransferase	1000	-1
+rxn01644_c0	L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and cyclizing)	0.00429866088060862	-1
+rxn02185_c0	2-Acetolactate pyruvate-lyase (carboxylating)	999.713246835966	1
+rxn02925_c0	L-Alanine:3-oxopropanoate aminotransferase	-1000	1
+rxn03841_c0	4-amino-4-deoxychorismate pyruvate-lyase	0.00368841452551605	1
+rxn03909_c0	1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)	0.0497442127036909	-1
+rxn03924_c0	taurine:pyruvate aminotransferase	-900	-1
+rxn15491_c0	(S)-2-Acetolactate pyruvate-lyase (carboxylating)	-1000	1
+rxn16114_c0	L-tyrosine:pyruvate aminotransferase	-1000	-1
+rxn05938_c0	pyruvate ferredoxin oxidoreductase	0.509800457558981	1

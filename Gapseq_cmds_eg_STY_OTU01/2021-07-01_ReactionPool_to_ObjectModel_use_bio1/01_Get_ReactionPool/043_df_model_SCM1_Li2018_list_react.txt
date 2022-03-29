@@ -1,0 +1,766 @@
+react_id	react_name	react_rev	react_single	react_de	lowbnd	uppbnd	obj_coef	gprRules	gpr
+R00042	diphosphate:acetate phosphotransferase	FALSE	NA	NA	0	1000	0		
+R00102	Glycine:ferricytochrome-c oxidoreductase (deaminating)	FALSE	NA	NA	0	1000	0		
+R00103	glycine:NAD + oxidoreductase (deaminating)	FALSE	NA	NA	0	1000	0		
+R00155	Glycine:2-oxoglutarate aminotransferase	FALSE	NA	NA	0	1000	0		
+R00289		FALSE	NA	NA	0	1000	0		
+R00315	3'-Phosphoadenylylsulfate nucleotidohydrolase	FALSE	NA	NA	0	1000	0		
+R00374	Uridine triphosphate pyrophosphohydrolase	FALSE	NA	NA	0	1000	0		
+R00471	L-Ornithine carboxy-lyase	TRUE	NA	NA	-1000	1000	0		
+R00507	L-Phenylalanine ammonia-lyase	FALSE	NA	NA	0	1000	0		
+R00515	L-Cysteine:oxygen oxidoreductase	FALSE	NA	NA	0	1000	0		
+R00581	L-Cysteine hydrogen-sulfide-lyase (adding sulfite)	TRUE	NA	NA	-1000	1000	0		
+R00589		TRUE	NA	NA	-1000	1000	0		
+R00670	L-asparagine hydro-lyase (3-cyanoalanine-forming)	FALSE	NA	NA	0	1000	0		
+R00671		FALSE	NA	NA	0	1000	0		
+R00697	D-Glycerate-3-phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R00846	dCDP nucleotidohydrolase	FALSE	NA	NA	0	1000	0		
+R00893	dCTP nucleotidohydrolase	FALSE	NA	NA	0	1000	0		
+R00901	L-arogenate:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0		
+R00928	Succinyl-CoA:L-homoserine O-succinyltransferase	TRUE	NA	NA	-1000	1000	0		
+R01182	geranylgeranyl reductase	FALSE	NA	NA	0	1000	0		
+R01267	dTDP phosphohydrolase	TRUE	NA	NA	-1000	1000	0		
+R01393	hydroxypyruvate carboxy-lyase (glycolaldehyde-forming)	FALSE	NA	NA	0	1000	0		
+R01400	dUTP nucleotidohydrolase	TRUE	NA	NA	-1000	1000	0		
+R01667		FALSE	NA	NA	0	1000	0		
+R01731	2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0546
+R01777	O-Succinyl-L-homoserine succinate-lyase (adding cysteine)	FALSE	NA	NA	0	1000	0		
+R02063	L-Aspartate:tRNAAsp ligase (AMP-forming)	TRUE	NA	NA	-1000	1000	0		
+R02087	L-Asparagine:tRNA(Asn) ligase (AMP-forming)	TRUE	NA	NA	-1000	1000	0		
+R02092	L-Glutamate:tRNA(Gln) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0		
+R02100	Glutaminyl-tRNA synthetase	FALSE	NA	NA	0	1000	0		
+R08218	S-adenosyl-L-methionine:tRNA 5-methylaminomethyl-2-thiouridine methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1511
+R02243	NADPH:trypanathione oxidoreductase	FALSE	NA	NA	0	1000	0		
+R03195	precorrin-3A,NADH:oxygen oxidoreductase (20-hydroxylating)	TRUE	NA	NA	-1000	1000	0		
+R05217	2,3-bis-(O-phytany)l-sn-glycerol 1-phosphate:NAD + oxidoreductase	FALSE	NA	NA	0	1000	0		
+R05555	CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol:L-serine 2,3-bis-O-(geranylgeranyl)-sn-glycerol phosphotransferase	TRUE	NA	NA	-1000	1000	0		
+R05807	S-adenosylmethioninamine:putrescine 3-aminopropyltransferase	FALSE	NA	NA	0	1000	0		
+R07399		TRUE	NA	NA	-1000	1000	0		
+R00018	putrescine:putrescine 4-aminobutyltransferase (ammonia-forming)	FALSE	NA	NA	0	1000	0		
+R00291	UDPglucose 4-epimerase	TRUE	NA	NA	-1000	1000	0		
+R00466	Glyoxylate:oxygen oxidoreductase	FALSE	NA	NA	0	1000	0		
+R00489	L-aspartate 1-carboxy-lyase (beta-alanine-forming)	FALSE	NA	NA	0	1000	0		
+R00511	cytidine-5'-monophosphate phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R00864		TRUE	NA	NA	-1000	1000	0		
+R00963	5'-nucleotidase (dUMP)	FALSE	NA	NA	0	1000	0		
+R01221	glycine synthase	FALSE	NA	NA	0	1000	0		
+R01339		TRUE	NA	NA	-1000	1000	0		
+R01664	2'-deoxycytidine 5'-monophosphate phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R01682	3-Sulfo-L-alanine carboxy-lyase (taurine-forming)	FALSE	NA	NA	0	1000	0		
+R01752	D-Glyceraldehyde:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0		
+R01805	N-Acetylneuraminate 9-phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R02102	5'-nucleotidase (dUMP)	FALSE	NA	NA	0	1000	0		
+R02200		TRUE	NA	NA	-1000	1000	0		
+R02252	phenylpropanoate:NAD + delta2-oxidoreductase	TRUE	NA	NA	-1000	1000	0		
+R02706		FALSE	NA	NA	0	1000	0		
+R04203	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1028
+R05218	cob(II)yrinic acid-a,c-diamide:FMN oxidoreductase	TRUE	NA	NA	-1000	1000	0		
+R06614	3-cyano-L-alanine carboxy-lyase (3-aminopropiononitrile-forming)	FALSE	NA	NA	0	1000	0		
+R06616		TRUE	NA	NA	-1000	1000	0		
+R08609		TRUE	NA	NA	-1000	1000	0		
+R00004	diphosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_1175 or Nmar_1231)
+R00006	pyruvate:pyruvate acetaldehydetransferase (decarboxylating)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1071 and Nmar_1072)
+R00014	pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1072 and Nmar_1071)
+R00036	5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0509
+R00078	Fe(II):oxygenoxidoreductase;Fe2 + :oxygen oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0573
+R00081	Ferrocytochrome-c:oxygen oxidoreductase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0183 or Nmar_0184)
+R00082	Ferrocytochrome c2:oxygen oxidoreductase	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_0183 and Nmar_0184)
+R00084	porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0491
+R00086	ATP phosphohydrolase	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3] & x[4] & x[5] & x[6] & x[7] & x[8] & x[9] & x[10])	(Nmar_1530 and Nmar_1080 and Nmar_1688 and Nmar_1689 and Nmar_1690 and Nmar_1691 and Nmar_1692 and Nmar_1693 and Nmar_1700 and Nmar_0483)
+R00104	ATP:NAD + 2'-phosphotransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0440 or Nmar_0921)
+R00127	ATP:AMP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0403
+R00137	ATP:nicotinamide-nucleotide adenylyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0960 or Nmar_1732)
+R00139	ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R00145	alpha-amino acid:NAD + oxidoreductase (deaminating)	TRUE	NA	NA	-1000	1000	0		
+R00156	ATP:UDP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R00158	ATP:UMP phosphotransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0405 or Nmar_1705)
+R00177	ATP:L-methionine S-adenosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0085
+R00189	deamido-NAD + :ammonia ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0966
+R00190	AMP:diphosphate phospho-D-ribosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1400
+R00192	S-Adenosyl-L-homocysteine hydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0964
+R00206	ATP:pyruvate,phosphate phosphotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0951
+R00220	L-serine ammonia-lyase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0848
+R00226	pyruvate:pyruvate acetaldehydetransferase (decarboxylating)	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_1071 and Nmar_1072)
+R00235	Acetate:CoA ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0866 or Nmar_0701)
+R00236	acetyl adenylate:CoA acetyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0701 or Nmar_0866)
+R00243	L-glutamate:NAD + oxidoreductase (deaminating)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1312
+R00253	L-Glutamate:ammonia ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_1771 or Nmar_1790)
+R00256	L-glutamine amidohydrolase	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3] & x[4])	(Nmar_0935 and Nmar_1466 and Nmar_1085 and Nmar_1086)
+R00260	glutamate racemase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0060
+R00267	Isocitrate:NADP + oxidoreductase (decarboxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1379
+R00275	superoxide:superoxide oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0394
+R00316	ATP:acetate adenylyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0701 or Nmar_0866)
+R00317	Acetyl phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0103
+R00330	ATP:GDP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R00331	ATP:nucleoside-diphosphate phosphotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0228
+R00335	GTP phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R00341	ATP:oxaloacetate carboxy-lyase (transphosphorylating;phosphoenolpyruvate-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0392
+R00342	(S)-malate:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0338 or Nmar_0676)
+R00351	acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1099
+R00354	(3S)-citryl-CoA oxaloacetate-lyase (acetyl-CoA-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1621
+R00355	L-Aspartate:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3])	(Nmar_0177 or Nmar_0865 or Nmar_0546)
+R00362	citrate oxaloacetate-lyase (forming acetate from the pro-S carboxymethyl group of citrate)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1621
+R00371	Acetyl-CoA:glycine C-acetyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0819
+R00380	S-Adenosyl-L-methionine:DNA (cytosine-5-)-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1473
+R00405	Succinate:CoA ligase (ADP-forming)	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_1123 and Nmar_1124)
+R00408	succinate:FAD oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_0261 and Nmar_0258)
+R00412	succinate:acceptor oxidoreductase	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_0258 and Nmar_0261)
+R00424	GTP 7,8-8,9-dihydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0038
+R00428	GTP 7,8-8,9-dihydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0038
+R00480	ATP:L-aspartate 4-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1754
+R00483	L-aspartate:ammonia ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0935 or Nmar_1466)
+R00490	L-aspartate ammonia-lyase (fumarate-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1260
+R00494	glutathione gamma-glutamylaminopeptidase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1004
+R00509	ATP:adenylylsulfate 3'-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0023
+R00512	ATP:CMP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0405
+R00529	ATP:sulfate adenylyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0050
+R00539	Acyl phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0103
+R00566	L-arginine carboxy-lyase (agmatine-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1180
+R00570	ATP:CDP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R00571	UTP:ammonia ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0919
+R00573	UTP:L-glutamine amido-ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0919
+R00575	HCO3-:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1086 and Nmar_1085)
+R00578	L-aspartate:L-glutamine amido-ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0935 or Nmar_1466)
+R00582	O-phospho-L-serine phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0666
+R00596	S-adenosyl-L-methionine:tRNA adenine N1-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0690
+R00598	S-Adenosyl-L-methionine:tRNA guanine N2-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1394
+R00615	Thiamin diphosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1530
+R00617	ATP:thiamin-phosphate phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1448
+R00623	primary alcohol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R00624	Secondary alcohol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R00658	2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0317
+R00661	phosphoenolpyruvate 2,3-phosphonomutase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0160
+R00674	L-serine hydro-lyase (adding indole; L-tryptophan-forming)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_0916 and Nmar_0915)
+R00691	L-arogenate hydro-lyase (decarboxylating; L-phenylalanine-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1567
+R00694	L-Phenylalanine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3])	(Nmar_0546 or Nmar_0865 or Nmar_1557)
+R00713	succinate-semialdehyde:NAD + oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1608
+R00714	succinate-semialdehyde:NADP + oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1608
+R00717	Glycolate:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0412
+R00722	ATP:IDP phosphotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0228
+R00734	L-tyrosine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3])	(Nmar_0546 or Nmar_0865 or Nmar_1557)
+R00750	4-hydroxy-2-oxopentanoate pyruvate-lyase (acetaldehyde-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0140
+R00754	ethanol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R00762	D-Fructose-1,6-bisphosphate 1-phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1035
+R00765	D-glucosamine-6-phosphate aminohydrolase (ketol isomerizing)	FALSE	NA	NA	0	1000	0		
+R00768	L-glutamine:D-fructose-6-phosphate isomerase (deaminating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0323
+R00771	D-glucose-6-phosphate aldose-ketose-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0167
+R00772	D-mannose-6-phosphate aldose-ketose-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0167
+R00856	CTP:sn-glycerol-3-phosphate cytidylyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1298
+R00858	hydrogen-sulfide:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0679
+R00875	D-Glucitol:NAD + 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1079
+R00885	GTP:alpha-D-mannose-1-phosphate guanylyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0424 or Nmar_0541)
+R00888	GDP-alpha-D-mannose 4,6-hydro-lyase (GDP-4-dehydro-alpha-D-rhamnose-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0150
+R00896	L-cysteine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0546 or Nmar_0865)
+R00897	O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0670
+R00899	L-cysteinylglycine dipeptidase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0296
+R00900	L-cysteine,glutathione:NADP + oxidoreductase (disulfide-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0672
+R00925	Propanoate:CoA ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0701 or Nmar_0866)
+R00926	Propionyladenylate:CoA propionyltransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0866 or Nmar_0701)
+R00927	acetyl-CoA:propanoyl-CoA 2-C-acetyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1631
+R00944	10-Formyltetrahydrofolate amidohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0223
+R00945	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1793
+R00946	5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1267 and Nmar_1268)
+R00955	UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0538
+R00965	orotidine-5'-phosphate carboxy-lyase (UMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1418
+R00985	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_0912 and Nmar_0911)
+R00986	Chorismate pyruvate-lyase (amino-accepting)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_0912 and Nmar_0911)
+R00994	(2R,3S)-3-methylmalate:NAD + oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1069
+R00996	L-threonine ammonia-lyase (2-oxobutanoate-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0848
+R01007	UDP-N-acetyl-D-glucosamine:dolichyl-phosphate N-acetyl-D-glucosamine phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0244
+R01009	GDPmannose:dolichyl-phosphate O-beta-D-mannosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0062
+R01015	D-glyceraldehyde-3-phosphate aldose-ketose-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0950
+R01049	ATP:D-ribose-5-phosphate diphosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1774
+R01054	ADP-ribose ribophosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1716
+R01056	D-ribose-5-phosphate aldose-ketose-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0218
+R01057	D-Ribose 1,5-phosphomutase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0224
+R01061	D-glyceraldehyde-3-phosphate:NAD + oxidoreductase (phosphorylating)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0831
+R01067	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_0299 and Nmar_0300)
+R01068	D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0553 or Nmar_1035)
+R01071	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1559
+R01072	5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0781
+R01073	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0913
+R01074	biotin:CoA ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0984
+R01078	dethiobiotin:sulfur sulfurtransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0821
+R01083	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1455
+R01086	2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0263
+R01090	L-Leucine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0192 or Nmar_0248)
+R01123	Isopentenyl-diphosphate delta3-delta2-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0313
+R01130	IMP:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1569
+R01135	IMP:L-aspartate ligase (GDP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1420
+R01137	ATP:dADP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R01157	Agmatine amidinohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0925
+R01163	L-histidinal:NAD + oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1558
+R01177	butanoyl-CoA:acetyl-CoA C-butanoyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1631
+R01185	1D-myo-inositol 1-phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0268
+R01186	1D-myo-inositol 4-phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0268
+R01187	1D-myo-inositol 3-phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0268
+R01195	Ferredoxin:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0	(x[1] | x[2])	(Nmar_0253 or Nmar_0267)
+R01197	2-oxoglutarate:ferredoxin oxidoreductase (decarboxylating)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_0413 and Nmar_0414)
+R01209	2,3-Dihydroxy-3-methylbutanoate hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0886
+R01213	acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_1070 or Nmar_1293)
+R01214	L-Valine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0192 or Nmar_0248)
+R01216	2-dehydropantoate formaldehyde-lyase (3-methyl-2-oxobutanoate-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1720
+R01220	5,10-methylenetetrahydrofolate:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1117
+R01226	5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1720
+R01229	GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1400
+R01230	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1573
+R01231	Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1573
+R01244	Adenine aminohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1578
+R01262	glutathione:L-amino-acid 5-glutamyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1004
+R01324	citrate hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1482
+R01325	citrate hydro-lyase (cis-aconitate-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1482
+R01354	ATP:propanoate adenylyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2]) 	(Nmar_0866 or Nmar_0701) 
+R01373	Prephenate hydro-lyase (decarboxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1567
+R01388	D-Glycerate:NAD + 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_0412 and Nmar_1111)
+R01392	D-Glycerate:NADP + 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1111
+R01397	carbamoyl-phosphate:L-aspartate carbamoyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1686
+R01398	Carbamoyl-phosphate:L-ornithine carbamoyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0397
+R01402	S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1401
+R01421	Benzoyl phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0103
+R01466	O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0833 or Nmar_1549)
+R01492	ATP:cob(I)alamin Co-beta-adenosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0078
+R01512	ATP:3-phospho-D-glycerate 1-phosphotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0500
+R01513	3-Phospho-D-glycerate:NAD + 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1258
+R01515	3-Phospho-D-glyceroyl phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0103
+R01518	D-phosphoglycerate 2,3-phosphomutase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0537 or Nmar_0181)
+R01547	ATP:dAMP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0403
+R01625	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0138
+R01641	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0300 or Nmar_0299)
+R01655	5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1117
+R01658	Dimethylallyl-diphosphate:isopentenyl-diphosphate dimethylallyltranstransferase	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[1] & x[1])	(Nmar_0312 and Nmar_0287 and Nmar_0312 and Nmar_0312)
+R01662	3-phospho-D-glycerate 1,2-phosphomutase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0181 or Nmar_0537)
+R01663	dCMP aminohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0947
+R01665	ATP:dCMP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0405
+R01687	(5-L-glutamyl)-peptide:taurine 5-glutamyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1004
+R01714	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0547
+R01771	ATP:L-homoserine O-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0041
+R01773	L-Homoserine:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0696
+R01775	L-homoserine:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0696
+R01801	CDP-diacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0924
+R01804	phosphoenolpyruvate:N-acetyl-D-mannosamine C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0131
+R01818	D-mannose 6-phosphate 1,6-phosphomutase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0224 or Nmar_0541)
+R01819	D-mannose-6-phosphate aldose-ketose-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0167
+R01827	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0301
+R01829	sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0553 or Nmar_1035)
+R01845	Sedoheptulose 1,7-bisphosphate 1-phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1035
+R01857	ATP:dGDP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R01867	(S)-dihydroorotate:fumarate oxidoreductase	FALSE	NA	NA	0	1000	0		
+R01870	Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0289
+R01878	Cytidine aminohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1471
+R01884	Creatinine amidohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0222
+R01900	isocitrate hydro-lyase (cis-aconitate-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1482
+R01931	thiosulfate:cyanide sulfurtranserase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0441
+R01954	L-Citrulline:L-aspartate ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1286
+R01978	acetyl-CoA:acetoacetyl-CoA C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0828
+R02003	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0312
+R02014	2'-Deoxyadenosine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1628
+R02016	NADPH:oxidized-thioredoxin oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0672
+R02017	2'-Deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1627
+R02018	2'-Deoxyuridine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1627
+R02019	2'-Deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1627
+R02020	2'-Deoxyguanosine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1628
+R02021	adenosine 3',5'-bisphosphate,sulfite:oxidized-thioredoxin oxidoreductase (3'-phosphoadenosine-5'-phosphosulfate -forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0049
+R02022	2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1628
+R02023	2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1628
+R02024	2'-Deoxycytidine diphosphate:oxidized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1627
+R02058	acetyl-CoA:D-glucosamine-6-phosphate N-acetyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0540
+R02061	trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0312
+R02081	(R)-Mevalonate:NAD + oxidoreductase (CoA-acetylating)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1560
+R02093	ATP:dTDP phosphotransferase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_0228
+R02094	ATP:dTMP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1707
+R02098	ATP:dUMP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1707
+R02124	retinol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R02199	L-Isoleucine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0192 or Nmar_0248)
+R02245	ATP:(R)-mevalonate 5-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0315
+R02269	5,6-Dihydrouracil amidohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0214
+R02272	(S)-4-Amino-5-oxopentanoate 4,5-aminomutase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3])	(Nmar_1017 or Nmar_0148 or Nmar_0490)
+R02283	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1291
+R02285	N-Formimino-L-glutamate formiminohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1003
+R02291	L-Aspartate-4-semialdehyde:NADP + oxidoreductase (phosphorylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1586
+R02301	5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1118
+R02319	NTP phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1530
+R02326	ATP:dCDP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R02328	dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0124
+R02331	ATP:dUDP phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0228
+R02340	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_0916 and Nmar_0915)
+R02404	Itaconate:CoA ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1123 and Nmar_1124)
+R02412	ATP:shikimate 3-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0549
+R02413	Shikimate:NADP + 3-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0550
+R02433	L-cysteate:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0546 or Nmar_0865)
+R02485	deoxycytidine aminohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1471
+R02568	D-fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0553 or Nmar_1035)
+R02585	Protein-tyrosine-phosphate phosphohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1760
+R02619	3-sulfino-L-alanine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0546 or Nmar_0865)
+R02649	ATP:N-acetyl-L-glutamate 5-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1290
+R02698	4-hydroxyphenylacetate,NADH:oxygen oxidoreductase (3-hydroxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0207
+R02722	L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_0916 and Nmar_0915)
+R02739	alpha-D-Glucose 6-phosphate ketol-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0167
+R02740	alpha-D-Glucose 6-phosphate ketol-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0167
+R02767	(3R)-3-Hydroxyacyl-[acyl-carrier-protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0634
+R02853	D-O-Phosphoserine phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0666
+R02864	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0511
+R02918	L-Tyrosine:tRNA(Tyr) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1751
+R02961		FALSE	NA	NA	0	1000	0	(x[1] | x[2] | x[3])	(Nmar_0606 or Nmar_1319 or Nmar_1499)
+R03005	ATP:nicotinamide-nucleotide adenylyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0960 or Nmar_1732)
+R03012	L-Histidinol:NAD + oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1558
+R03020	tRNA-uridine uracilmutase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0406 or Nmar_1198)
+R03035	ATP:pantetheine-4'-phosphate adenylyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1494
+R03038	L-Alanine:tRNA(Ala) ligase (AMP-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0368
+R03050	2-Acetolactate pyruvate-lyase (carboxylating)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1072 and Nmar_1071)
+R03051	2,3-Dihydroxy-3-methylbutanoate:NADP + oxidoreductase (isomerizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0959
+R03055	5,6-Dihydrothymine amidohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0214
+R03066	2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1570
+R03067	2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1570
+R03084	3-Dehydroquinate hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0551
+R03105	3-Mercaptopyruvate:cyanide sulfurtransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0441
+R03106	3-mercaptopyruvate:cyanide sulfurtransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0441
+R03132	O3-acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0670
+R03165	Hydroxymethylbilane hydro-lyase(cyclizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0493
+R03182	7,8-Diaminononanoate:carbon-dioxide cyclo-ligase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0823
+R03231	S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0822
+R03243	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1557
+R03269	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1721
+R03299	3-Hydroxyphenylacetate,NADH:oxygen oxidoreductase (3-hydroxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0207
+R03319	alpha-D-Hexose 1-phosphate 1,6-phosphomutase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0224
+R03321	beta-D-Glucose 6-phosphate ketol-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0167
+R03348	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1237
+R03443	N-acetyl-L-glutamate-5-semialdehyde:NADP + 5-oxidoreductase (phosphrylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1289
+R03457	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1555
+R03458	5-amino-6-(5-phosphoribitylamino)uracil:NADP + 1'-oxidoreductase	TRUE	NA	NA	-1000	1000	0		
+R03460	Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0548
+R03471	ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0542
+R03472	5-amino-1-(5-phospho-D-ribosyl)imidazole formate-lyase (decarboxylating, 4-amino-2-methyl-5-phosphomethylpyrimidine-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0543
+R03508	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0914
+R03530	ATP:dIDP phosphotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0228
+R03552	Acetyl-CoA:histone acetyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0579
+R03598		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0497
+R03599	L-selenocysteine selenide-lyase (L-alanine-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0497
+R03601	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0670
+R03632	ATP:protamine O-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1410
+R03646	L-Arginine:tRNA(Arg) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0686
+R03650	L-Cysteine:tRNA(Cys) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0967
+R03654	Glycine:tRNA(Gly) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0063
+R03655	L-Histidine:tRNA(His) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0236
+R03656	L-Isoleucine:tRNA(Ile) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1120
+R03657	L-Leucine:tRNA(Leu) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0367
+R03658	L-Lysine:tRNALys ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0578
+R03659	L-Methionine:tRNAMet ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0963
+R03660	L-Phenylalanine:tRNA(Ala) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1488 and Nmar_1489)
+R03661	L-Proline:tRNA(Pro) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0658
+R03662	L-Serine:tRNA(Ser) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1511
+R03663	L-Threonine:tRNA(Thr) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0926
+R03664	L-Tryptophan -tRNA(Trp) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1490
+R03665	L-Valine:tRNAVal ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1477
+R03767	Acetyl-CoA:gentamicin-C N3-acetyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0144
+R03789	tRNA-guanosine34:queuine tRNA-D-ribosyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1536
+R03867	(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1004
+R03896	(R)-2-Methylmalate hydro-lyase (2-methylmaleate-forming)	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2] & x[3] & x[4])	(Nmar_0420 and Nmar_0421 and Nmar_0422 and Nmar_0423)
+R03898	2-methylmaleate hydratase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2] & x[3] & x[4])	(Nmar_0420 and Nmar_0421 and Nmar_0422 and Nmar_0423)
+R03905	Glu-tRNA(Gln):L-glutamine amido-ligase(ADP-forming)	FALSE	NA	NA	0	1000	0	((x[1] & x[2] | (x[3] & x[4] & x[5]))	((Nmar_0099 and Nmar_0100 or (Nmar_0868 and Nmar_0869 and Nmar_0870))
+R03916	(5-glutamyl)-peptide:amino-acid 5-glutamyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1004
+R03940	10-Formyltetrahydrofolate:L-methionyl-tRNA N-formyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0134
+R03947	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0492 or Nmar_0511)
+R03948	S-adenosyl-L-methionine:precorrin-4 C20-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0058
+R03950	uroporphyrinogen methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0492
+R03966	4-oxalocrotonate tautomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1634
+R03968	2-Isopropylmalate hydro-lyase	TRUE	NA	NA	-1000	1000	0	((x[1] | x[2]) | (x[3] | x[4]))	((Nmar_0421 or Nmar_0423) or (Nmar_0420 or Nmar_0422))
+R03970	gamma-glutamyltranspeptidase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1004
+R03971	gamma-glutamyl-beta-aminopropiononitrile amidohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1004
+R04001	3-Isopropylmalate hydro-lyase	TRUE	NA	NA	-1000	1000	0	((x[1] | x[2]) & (x[3] | x[4]))	((Nmar_0420 or Nmar_0422) and (Nmar_0421 or Nmar_0423))
+R04037	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1551
+R04109	L-glutamate-semialdehyde: NADP + oxidoreductase(L-glutamyl-tRNA(Glu)-forming)	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0510 or Nmar_0265)
+R04120	peptide-L-methionine:thioredoxin-disulfide S-oxidoreductase [L-methionine (S)-S-oxide-forming]	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0995
+R04144	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1119
+R04159	(5-L-glutamyl)-peptide:amino-acid 5-glutamyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1004
+R04206	3-Phospho-D-erythronate hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0317
+R04208	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0582
+R04212	Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)	FALSE	NA	NA	-1000	0	0	(x[1] & x[2] & x[3])	(Nmar_0868 and Nmar_0869 and Nmar_0870)
+R04216	dolichyl-diphosphooligosaccharide:protein-L-asparagine oligopolysaccharidotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0075
+R04230	(R)-4'-Phosphopantothenate:L-cysteine ligase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1721
+R04231	(R)-4'-Phosphopantothenate:L-cysteine ligase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1721
+R04238	Aminoacyl-tRNA aminoacylhydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1200
+R04273	Peptidylproline cis-trans-isomerase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_1730 or Nmar_1740)
+R04274	RNA-3'-phosphate:RNA ligase (cyclizing, AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1733
+R04292	glycerone phosphate:iminosuccinate alkyltransferase (cyclizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1239
+R04294	2'-Deoxyribonucleoside diphosphate:oxidized-thioredoxin 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1627
+R04314	DNA-6-O-methylguanine:protein-L-cysteine S-methyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0388
+R04315	2'-Deoxyribonucleoside triphosphate:oxydized-thioredoxin 2'-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1628
+R04316	Acetyl-CoA:ribosomal-protein-L-alanine N-acetyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0292
+R04325	10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1114
+R04326	5'-Phosphoribosylglycinamide + 5,10-Methenyltetrahydrofolate + H2O <=> 5'-Phosphoribosyl-N-formylglycinamide + Tetrahydrofolate	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1114
+R04347	5-Methyl-5,6,7,8-tetrahydromethanopterin:2-mercaptoethanesulfonate 2-methyltransferas	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1747
+R04348	Acetyl-CoA:2-deoxystreptamine-antibiotic N3'-acetyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0144
+R04378	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide:pyrophosphate phosphoribosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1400
+R04420	5-Methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0169
+R04426	(2R,3S)-3-isopropylmalate:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1069
+R04435	phosphoenolpyruvate:N-acetyl-D-mannosamine-6-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0131
+R04439	(R)-2,3-dihydroxy-3-methylbutanoate:NADP + oxidoreductase (isomerizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0959
+R04440	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP + oxidoreductase (isomerizing)	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_0959
+R04441	(R)-2,3-Dihydroxy-3-methylbutanoate hydro-lyase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0886
+R04463	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3])	(Nmar_0777 and Nmar_0780 and Nmar_0779)
+R04475	N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1291
+R04481	S-Adenosyl-L-methionine:2-(3-carboxy-3-aminopropyl)-L-histidine methyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1297
+R04509	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0542
+R04533	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0634 or Nmar_0173)
+R04534	(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0634 or Nmar_0173)
+R04536	(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0634 or Nmar_0173)
+R04543	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0634 or Nmar_0173)
+R04558	Imidazole-glycerol-3-phosphate synthase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_1552 or Nmar_1554)
+R04559	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1455
+R04562	Biotin:apo-[acetyl-CoA:carbondioxide ligase (ADP-forming)] ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0984
+R04566	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0634 or Nmar_0173)
+R04591	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0784
+R04639	2-amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate hydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0038
+R04640	N-(5'-phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1553
+R04672	(S)-2-Acetolactate pyruvate-lyase (carboxylating)	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_1071 and Nmar_1072)
+R04673	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1072 and Nmar_1071)
+R04710	Protein-glycine,dihydroflavodoxin:S-adenosyl-L-methionine oxidoreductase (S-adenosyl-L-methionine cleaving)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0217
+R04734	4a-hydroxytetrahydrobiopterin hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1468
+R04771	ATP:L-selenomethione S-adenosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0085
+R04773	Selenomethionine:tRNAMet ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0963
+R04780	beta-D-Fructose 1,6-bisphosphate 1-phosphohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1035
+R04805	alcohol dehydrogenase (glycerol)	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R04858	S-adenosyl-L-methionine:DNA (cytosine-5-)-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1473
+R04859	O3-acetyl-L-serine:thiosulfate 2-amino-2-carboxyethyltransferase (reducing, L-cysteine-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0670
+R04880	3,4-dihydroxyphenylethyleneglycol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R04928	ATP:adenylylsulfate 3'-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0023
+R04929	ATP:selenate adenylyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0050
+R04935	(5-L-glutamyl)-peptide:Se-Methylselenocysteine 5-glutamyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1004
+R04936	Se-Adenosylselenohomocysteine hydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0964
+R04951		FALSE	NA	NA	0	1000	0	x[1]	Nmar_0296
+R04953	(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0634 or Nmar_0173)
+R04964	(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0634 or Nmar_0173)
+R04985	4-hydroxy-3-polyprenylbenzoate carboxy-lyase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0771 or Nmar_0555)
+R04986	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0771 or Nmar_0555)
+R04990	UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1315
+R04993	S-adenosyl-L-methione:demethylmenaquinone methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1315
+R05032	UDP-N-acetyl-D-glucosamine:undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 4-beta-N-acetylglucosaminlytransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0194
+R05046	formamidopyrimidine nucleoside triphosphate amidohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0038
+R05048	2,5-diaminopyrimidine nucleoside triphosphate mutase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0038
+R05052	L-erythro-4-hydroxyglutamate:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0546 or Nmar_0865)
+R05068	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_0959
+R05069	(S)-2-Aceto-2-hydroxybutanoate:NADP + oxidoreductase (isomerizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0959
+R05070	dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0886
+R05071	ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0959
+R05086	O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0833 or Nmar_1549)
+R05145	biotin--protein ligase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0984
+R05149	S-Adenosyl-L-methionine:1-precorrin-6Y C5,15-methyltransferase (C-12-decarboxylating)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0005 or Nmar_0057)
+R05177	precorrin 8X 11,12-methylmutase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0080
+R05180	S-adenosyl-L-methionine:precorrin-3B C17-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1752
+R05181	S-adenosyl-L-methionine:precorrin-4 C11 methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0059
+R05220	ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0078
+R05223	Adenosylcobalamin 5'-phosphate synthase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1582
+R05224	cobyrinic acid a,c-diamide synthase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0079
+R05225	adenosylcobyric acid synthase (glutamine-hydrolysing)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1584
+R05233	trans-3-Chloro-2-propene-1-ol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R05234	cis-3-chloro-2-propene-1-ol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R05298	4-hydroxy-2-oxohexanoate pyruvate-lyase (propanal-forming)	TRUE	NA	NA	-1000	1000	0		
+R05329	Spermidine:eIF5A-lysine 4-aminobutyltransferase (propane-1,3-diamine-forming)	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0648 or Nmar_0928)
+R05577	L-Aspartate:tRNA(Asp) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0871 or Nmar_1066)
+R05578	L-glutamate:tRNA(Glu) ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0311
+R05617	all-trans-polyprenyl diphosphate:1,4-dihydroxy-2-naphthoate polyprenyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0938
+R05662	UDP-N-acetyl-D-glucosamine:N-acetyl-alpha-D-muramyl(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0194
+R05679	sn-glycerol-1-phosphate:NAD 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1729
+R05680	sn-glycerol-1-phosphate:NADP 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1729
+R05705	FMNH2:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1737
+R05808	S-adenosyl-L-methionine:cobalt-factor-II C20-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0058
+R05809	precorrin-3B C17-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1752
+R05810	cobalt-precorrin-4 methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0059
+R05813	precorrin-6Y C5,15-methyltransferase (decarboxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0005
+R05814	precorrin-8 11,12-methylmutase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0080
+R05815	cobyrinate:L-glutamine amido-ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0079
+R05976		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0075
+R06137	Cytosine deaminase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3])	(Nmar_1578 or Nmar_1471 or Nmar_0947)
+R06172		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0194
+R06447	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate cistransferase (adding 8 isopentenyl units)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1416
+R06513	dTDPglucose 4,6-dehydratase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0125
+R06514	dTDP-4-dehydro-6-deoxy-alpha-D-glucose 3,5-epimerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0145
+R06529	adenosylcobyric acid:(R)-1-aminopropan-2-yl phosphate ligase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1583
+R06590	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehydetransferase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_0299 and Nmar_0300)
+R06782	3-phenylpropanoate,NADH:oxygen oxidoreductase (2,3-hydroxylating)	FALSE	NA	NA	0	1000	0		
+R06783	trans-cinnamate,NADH:oxygen oxidoreductase (2,3-hydroxylating)	FALSE	NA	NA	0	1000	0		
+R06858	1,4-dihydroxy-2-naphthoate phytyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0938
+R06859	demethylphylloquinone methyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1315
+R06861	D-xylulose-5-phosphate:thiamin diphosphate glycolaldehydetransferase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_0299 and Nmar_0300)
+R06863	D-sedoheptulose-7-phosphate:thiamin diphosphate glycolaldehydetransferase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_0299 and Nmar_0300)
+R06917	1-hydroxymethylnaphthalene:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R06927	(2-naphthyl)methanol:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R06975	5-formaminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl 5'-monophosphate synthetase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0770 or Nmar_0872)
+R06977	L-2,4-diaminobutyrate:2-oxoglutarate 4-aminotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1345
+R06978	acetyl-CoA:L-2,4-diaminobutanoate N4-acetyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1346
+R06979	Ectoine hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1344
+R07105	alcohol dehydrogenase (glycerol)	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R07145	L-iditol:NAD + 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1079
+R07164	L-aspartate:NAD + oxidoreductase (deaminating)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1240
+R07180		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0560
+R07268	ATP:cobinamide Cobeta-adenosyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0078
+R07281	D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1616
+R07302	adenosylcobyric acid:(R)-1-aminopropan-2-ol ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1583
+R07306	GTP 8,9-hydrolase (phosphate-forming)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1614
+R07324	1D-myo-inositol-3-phosphate lyase (isomerizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0649
+R07326	alcohol dehydrogenase (glycerol)	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R07327	alcohol dehydrogenase (glycerol)	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R07343	myo-inositol-phosphate phosphohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0268
+R07349	n-alkanal:NAD + 2-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1146
+R07353	6-(2-Amino-2-carboxyethyl)-7,8-dioxo-7,8-dihydroquinoline-2,4-dicarboxylate:oxygen oxidoreductase (cyclizing)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0288
+R07404	5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0846
+R07405	5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0847
+R07410	L-aspartate:NAD + oxidoreductase (deaminating)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1240
+R07411	protoheme IX farnesyltransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_1225 or Nmar_1588)
+R07412		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0186
+R07456	D-ribulose 5-phosphate,D-glyceraldehyde 3-phosphate pyridoxal 5'-phosphate-lyase	TRUE	NA	NA	-1000	1000	0	(x[1] & x[2])	(Nmar_1478 and Nmar_1479)
+R07461		TRUE	NA	NA	-1000	1000	0		
+R07477	spermidine:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0648 or Nmar_0928)
+R07606	L-methionine:thioredoxin-disulfide S-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0995
+R07607	peptide-methionine:thioredoxin-disulfide S-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0697
+R07641	carbamoyl-phosphate synthase (glutamine-hydrolysing)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1085 and Nmar_1086)
+R07759		TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0173 or Nmar_0634)
+R07763	3-oxoacyl-[acyl-carrier-protein] reductase (n-C10:0)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0634
+R07772	cobalt-precorrin 5A acylhydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0082
+R07773	S-adenosyl-L-methionine:cobalt-precorrin-5B (C1)-methyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0083
+R07774	S-adenosyl-L-methionine:cobalt-precorrin-6B C15-methyltransferase (C12-decarboxylating)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0057
+R07775	S-adenosyl-L-methionine:cobalt-precorrin-7 C5-methyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0005
+R08050	ectoine hydroxylase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1343
+R08198	NAD-binding D-isomer specific 2-hydroxyacid dehydrogenase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1258
+R08221	5'-deoxy-5-fluorocytidine aminohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1471
+R08227	5,6-dihydro-5-fluorouracil amidohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0214
+R08231	5-fluorouridine monophosphate:diphosphate phospho-alpha-D-ribosyl-transferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0289
+R08240	6-thioinosine 5'-monophosphate:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1569
+R08244	6-thioxanthine 5'-monophosphate:L-glutamine amido-ligase (AMP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1573
+R08281	alcophosphamide:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R08306	2-phenyl-1,3-propanediol monocarbamate:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R08310	4-hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R08360	tryparedoxin:hydroperoxide oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0560
+R08362	trypanothione:hydroperoxide oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0560
+R08363	2'-deoxyribonucleoside-diphosphate:tryparedoxin-disulfide 2'-oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1627
+R08364	2'-deoxyribonucleoside-diphosphate:trypanothione-disulfide 2'-oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1627
+R08468		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1297
+R08469	S-Adenosyl-L-methionine:2-(3-carboxy-3-aminopropyl)-L-histidine methyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1297
+R08557	choline dehydrogenase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0523 or Nmar_1193)
+R08639	alpha-D-glucose 1,6-phosphomutase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0224
+R08648	pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1071 and Nmar_1072)
+R08774	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1315
+R08924	butanoyl-CoA:carbon-dioxide ligase (ADP-forming)	FALSE	NA	NA	0	1000	0		
+R09083	5,6-dimethylbenzimidazole synthase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1736
+R09099	5,10-methylenetetrahydromethanopterin:glycine hydroxymethyltransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1793
+R09248	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 5 isopentenyl units)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0287
+R00742	acetyl-CoA:carbon-dioxide ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3])	(Nmar_0272 and Nmar_0273 and Nmar_0274)
+R00740	3-oxopropanoate:NADP + oxidoreductase (CoA-malonylating)	TRUE	NA	NA	-1000	1000	0		
+R09289	3-hydroxypropionate:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1110
+R03157	3-hydroxypropionyl-CoA synthetase (ADP-forming)	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1309
+R03045	3-Hydroxypropionyl-CoA hydro-lyase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1308
+R00919	propanoyl-CoA:NADP + 2-oxidoreductase	FALSE	NA	NA	-1000	0	0		
+R01859	propanoyl-CoA:carbon-dioxide ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3])	(Nmar_0272 and Nmar_0273 and Nmar_0274)
+R02765	Methylmalonyl-CoA epimerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0953
+R00833	(R)-Methylmalonyl-CoA CoA-carbonylmutase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0954 or Nmar_0958)
+R09280	succinate-semialdehyde:NADP + oxidoreductase (CoA-acylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1608
+R09281	4-hydroxybutanoate:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0	(x[1] | x[2])	(Nmar_0161 or Nmar_1110)
+R10758	4-hydroxybutanoate:CoA ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0206
+R10782	4-hydroxybutanoyl-CoA hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0207
+R03026	(S)-3-Hydroxybutanoyl-CoA hydro-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1308
+R01975	(S)-3-Hydroxybutanoyl-CoA:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1028
+R00238	Acetyl-CoA:acetyl-CoA C-acetyltransferase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2])	(Nmar_0841 or Nmar_1631)
+R00148	ammonia,ubiquinol:oxygen oxidoreductase	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3])	(Nmar_1500 and Nmar_1503 and Nmar_1502)
+CuP460		FALSE	NA	NA	0	1000	0	x[1]	Nmar_1226
+QH2_Synt		FALSE	NA	NA	0	1000	0		
+NIR		FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3] & x[4] & x[5] & x[6])	(Nmar_1259 and Nmar_1667 and Nmar_1131 and Nmar_1663 and Nmar_1354 and Nmar_1136)
+N2O_spon		FALSE	NA	NA	0	1000	0		
+Cytbc1		FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3])	(Nmar_1542 and Nmar_1544 and Nmar_1543)
+Cytaa3		FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3] & x[4])	(Nmar_0182 and Nmar_0183 and Nmar_0184 and Nmar_0185)
+rxn10042	ATP synthase (four protons for one ATP)	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3] & x[4] & x[5] & x[6])	(Nmar_1688 and Nmar_1689 and Nmar_1690 and Nmar_1691 and Nmar_1692 and Nmar_1693)
+R02163	NADH:ubiquinone oxidoreductase	FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3] & x[4] & x[5] & x[6] & x[7] & x[8] & x[9] & x[10] & x[11])	(Nmar_0276 and Nmar_0277 and Nmar_0278 and Nmar_0279 and Nmar_0280 and Nmar_0281 and Nmar_0282 and Nmar_0283 and Nmar_0284 and Nmar_0285 and Nmar_0286)
+H_disp		FALSE	NA	NA	0	1000	0		
+R01196	pyruvate:ferredoxin 2-oxidoreductase (CoA-acetylating)	FALSE	NA	NA	0	0	0		
+R00310	protoheme ferro-lyase (protoporphyrin-forming)	FALSE	NA	NA	0	1000	0		
+R01529	D-Ribulose-5-phosphate 3-epimerase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0299
+R04173	3-Phosphoserine:2-oxoglutarate aminotransferase	FALSE	NA	NA	-1000	0	0		
+R01652		FALSE	NA	NA	-1000	0	0		
+R04035	Phosphoribosyl-ATP pyrophosphohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1551
+R03013	L-histidinol-phosphate phosphohydrolase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1555
+R03509	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0914
+R01715	Chorismate pyruvatemutase	TRUE	NA	NA	-1000	1000	0		
+R01728	Prephenate:NAD + oxidoreductase(decarboxylating)	FALSE	NA	NA	0	1000	0		
+R00586	acetyl-CoA:L-serine O-acetyltransferase	FALSE	NA	NA	0	1000	0		
+R10409		TRUE	NA	NA	-1000	1000	0		
+R01127	IMP 1,2-hydrolase (decyclizing)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0872
+R00751	L-threonine acetaldehyde-lyase (glycine-forming)	FALSE	NA	NA	0	1000	0		
+R01286	L-cystathionine L-homocysteine-lyase (deaminating; pyruvate-forming)	FALSE	NA	NA	0	1000	0		
+R00194	S-Adenosyl-L-homocysteine homocysteinylribohydrolase	FALSE	NA	NA	0	1000	0		
+R01291	S-(5-deoxy-D-ribos-5-yl)-L-homocysteine homocysteine-lyase [(4S)-4,5-dihydroxypentan-2,3-dione-forming]	FALSE	NA	NA	0	1000	0		
+R09775	LysW:L-2-aminoadipate ligase (ADP-forming)	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1288 and Nmar_1295)
+R09776	ATP:LysW-gamma-L-alpha-aminoadipate 6-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1290
+R09777	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde:NADP + 6-oxidoreductase (phosphorylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1289
+R09778	LysW-gamma-L-lysine:2-oxoglutarate 6-aminotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1291
+R09779	LysW-gamma-L-lysine carboxypeptidase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1296
+R06844		TRUE	NA	NA	-1000	1000	0		
+R02508		FALSE	NA	NA	-1000	0	0		
+R01776	Acetyl-CoA:L-homoserine O-acetyltransferase	TRUE	NA	NA	-1000	1000	0		
+R01287	O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase	TRUE	NA	NA	-1000	1000	0		
+R00271	2-Hydroxybutane-1,2,4-tricarboxylate 2-oxoglutarate-lyase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1070
+R03444	2-Hydroxybutane-1,2,4-tricarboxylate hydro-lyase	FALSE	NA	NA	0	1000	0		
+R04371	Homoisocitrate hydro-lyase	FALSE	NA	NA	-1000	0	0		
+R01934	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD + oxidoreductase	FALSE	NA	NA	0	1000	0		
+R01939	L-2-Aminoadipate:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0		
+R01716	chorismate:L-glutamine aminotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0912
+R05553	4-amino-4-deoxychorismate pyruvate-lyase	TRUE	NA	NA	-1000	1000	0		
+R10348		FALSE	NA	NA	0	1000	0		
+R10344		FALSE	NA	NA	0	1000	0		
+R04621	Dihydroneopterin monophosphate dephosphorylase	FALSE	NA	NA	-1000	0	0		
+R03504	2-amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine glycolaldehyde-lyase	TRUE	NA	NA	-1000	1000	0		
+R03503	6-hydroxymethyl-dihydropterin pyrophosphokinase	FALSE	NA	NA	0	1000	0		
+R02237	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)	FALSE	NA	NA	0	1000	0		
+R00939	5,6,7,8-Tetrahydrofolate:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0		
+R01333	glycolaldehyde:NAD + oxidoreductase	FALSE	NA	NA	0	1000	0		
+R00013	Glyoxylate carboxy-lyase (dimerizing)	FALSE	NA	NA	0	1000	0		
+R01745	(R)-Glycerate:NAD + oxidoreductase	TRUE	NA	NA	-1000	1000	0		
+R01514	ATP:(R)-glycerate 3-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1111
+R01224	5-methyltetrahydrofolate:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0		
+R10561	ATP:phosphomevalonate carboxy-lyase (adding ATP; isopentenyl-phosphate-forming)	FALSE	NA	NA	0	1000	0		
+R10093	ATP:isopentenyl phosphate phosphotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0314
+R04158	geranylgeranyl diphosphate:sn-glyceryl phosphate geranylgeranyltransferase	FALSE	NA	NA	0	1000	0		
+R04520	geranylgeranyl diphosphate:sn-3-O-(geranylgeranyl)glycerol 1-phosphate geranylgeranyltransferase	FALSE	NA	NA	0	1000	0		
+R10325	4-hydroxyphenylpyruvate:oxygen oxidoreductase (decarboxylating)	FALSE	NA	NA	-1000	0	0		
+R10255	NAD + glycohydrolase	FALSE	NA	NA	0	1000	0		
+R00178	NAD + phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R01920	ADP aminohydrolase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1135
+R01919	UDP diphosphohydrolase	FALSE	NA	NA	0	1000	0		
+R08700	AMP phosphoribohydrolase	TRUE	NA	NA	-1000	1000	0		
+R08701	Pyruvate:oxygen 2-oxidoreductase (phosphorylating)	TRUE	NA	NA	-1000	1000	0		
+R08702	UTP:alpha-D-glucose-1-phosphate uridylyltransferase	TRUE	NA	NA	-1000	1000	0		
+R00601	ATP:acetate phosphotransferase	FALSE	NA	NA	0	1000	0		
+R00978	5,6-Dihydrouracil:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0		
+R00905	N-Carbamoyl-beta-alanine amidohydrolase	FALSE	NA	NA	0	1000	0		
+R01993	(S)-dihydroorotate amidohydrolase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_0214
+R01869	(S)-Dihydroorotate:(acceptor) oxidoreductase	FALSE	NA	NA	0	1000	0	(x[1] & x[2])	(Nmar_1389 and Nmar_1390)
+R00416	UDP-N-acetylglucosamine diphosphorylase	FALSE	NA	NA	0	1000	0		
+R08193	N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase	TRUE	NA	NA	-1000	1000	0		
+R02060	D-Glucosamine 1-phosphate 1,6-phosphomutase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_0224
+R05332	glucosamine-1-phosphate N-acetyltransferase	FALSE	NA	NA	0	1000	0		
+R00286	UDP-glucose:NAD + 6-oxidoreductase	FALSE	NA	NA	0	1000	0		
+R01516	2,3-bisphospho-D-glycerate 2-phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R02164	Succinate:ubiquinone oxidoreductase	FALSE	NA	NA	0	1000	0		
+R06974	glycinamide ribonucleotide transformylase	FALSE	NA	NA	0	1000	0		
+R00806	UDP-glucose:D-fructose 2-alpha-D-glucosyltransferase	FALSE	NA	NA	-1000	0	0		
+R03920	ATP:D-fructose 6-phosphotransferase	FALSE	NA	NA	0	1000	0		
+R00805	sucrose-6F-phosphate phosphohydrolase	FALSE	NA	NA	0	1000	0		
+R00766	UDP-glucose:D-fructose-6-phosphate 2-alpha-D-glucosyltransferase	FALSE	NA	NA	0	1000	0		
+R07237	S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2] | x[3])	(Nmar_0492 or Nmar_0511 or Nmar_0669)
+R07238	S-adenosyl-L-methionine:precorrin-1 C-methyltransferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0492 or Nmar_0669)
+R00703	(S)-Lactate:NAD + oxidoreductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_0676
+R00228	acetaldehyde dehydrogenase (acetylating)	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1608
+R10088	D-ribose 5-phosphate,D-glyceraldehyde 3-phosphate pyridoxal 5'-phosphate-lyase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1479
+R10326	2,3-bis-(O-phytany)l-sn-glycerol 1-phosphate:NADP + oxidoreductase	FALSE	NA	NA	-1000	0	0		
+R09518	methane,quinol:oxygen oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1502
+R01142	Methane,NADH:oxygen oxidoreductase (hydroxylating)	FALSE	NA	NA	0	1000	0		
+R01385	UDPglucuronate 4-epimerase	FALSE	NA	NA	0	1000	0		
+R02634	UTP:1-Phospho-alpha-D-galacturonate uridylyltransferase	FALSE	NA	NA	0	1000	0		
+Met1		FALSE	NA	NA	0	1000	0		
+R04204	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_1308
+R03173	2-Methylbutanoyl-CoA:(acceptor) oxidoreductase	FALSE	NA	NA	0	1000	0		
+R03093	3-Indoleacetonitrile aminohydrolase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0650 or Nmar_1663)
+R00216	(S)-Malate:NADP + oxidoreductase(oxaloacetate-decarboxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0338
+R00214	(S)-malate:NAD + oxidoreductase (decarboxylating)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0338
+R09374	2-amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one amidohydrolase	FALSE	NA	NA	0	1000	0		
+R09375	2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one:NAD + 1'-oxidoreductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1612
+R09377	2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one 2-aminohydrolase	FALSE	NA	NA	0	1000	0		
+R07280	pyrimidine phosphatase	FALSE	NA	NA	0	1000	0		
+R04457	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1615
+R00066	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1617
+R08574	CTP:riboflavin 5'-phosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1301
+R00161	ATP:FMN adenylyltransferase	FALSE	NA	NA	0	1000	0		
+rxn10499		FALSE	NA	NA	0	1000	0	x[1]	Nmar_0592
+R09397	GTP:2-phospho-L-lactate guanylyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0625
+Met2		FALSE	NA	NA	0	1000	0		
+R09398	(2S)-lactyl-2-diphospho-5'-guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin lactylphosphotransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0626
+R00710	aldehyde dehydrogenase (acetaldehyde, NAD)	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1608
+R00130	ATP:dephospho-CoA 3'-phosphotransferase	FALSE	NA	NA	0	1000	0		
+R08716	cobalt-precorrin 3 dehydrogenase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1752
+R05812	precorrin-6A reductase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0057
+R05721	chloride:oxygen oxidoreductase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0515
+R00258	L-Alanine:2-oxoglutarate aminotransferase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0177
+R00660	Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine 1-carboxyvinyl-transferase	FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0078 or Nmar_0858)
+R08368	Purine nucleoside:orthophosphate ribosyltransferase	FALSE	NA	NA	0	1000	0		
+R02869	S-adenosylmethioninamine:spermidine 3-aminopropyltransferase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1135
+R01561	purine-nucleoside phosphorylase (Adenosine)	FALSE	NA	NA	0	1000	0		
+Met3		FALSE	NA	NA	0	1000	0		
+R03758	L-2-amino-3-oxobutanoate decarboxylation (spontaneous)	FALSE	NA	NA	-1000	0	0		
+R03759	(R)-1-Aminopropan-2-ol:NAD + oxidoreductase	FALSE	NA	NA	-1000	0	0		
+R06531	ATP:L-threonine O-phosphotransferase	FALSE	NA	NA	0	1000	0		
+R00332	 ATP:GMP phosphotransferase	FALSE	NA	NA	0	1000	0		
+rxn13300	glycogen synthase (UDPGlc)	FALSE	NA	NA	0	1000	0		
+rxn11007	5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase	FALSE	NA	NA	0	1000	0		
+rxn08013	5'-deoxyadenosine nuclosidase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1401
+rxn10525	gamma-F420-0:gamma-L-glutamate ligase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0667
+rxn10526	gamma-F420-1:gamma-L-glutamate ligase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_0667
+rxn10527	gamma-F420-2:gamma-L-glutamate ligase	TRUE	NA	NA	-1000	1000	0		
+R00522	Oxalate carboxy-lyase	FALSE	NA	NA	0	1000	0		
+R04594	adenosylcobalamin/alpha-ribazole phosphatase;	FALSE	NA	NA	0	1000	0	x[1]	Nmar_0181
+R04148	Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase	FALSE	NA	NA	0	1000	0		
+R01724	nicotinic acid mononucleotide pyrophosphorylase	FALSE	NA	NA	-1000	0	0		
+R06530	L-threonine-O-3-phosphate carboxy-lyase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1585
+R05222	GTP:adenosylcobinamide-phosphate guanylyltransferase	FALSE	NA	NA	0	1000	0		
+add_lipid1		FALSE	NA	NA	-1000	0	0		
+add_lipid2		FALSE	NA	NA	0	1000	0		
+rxn10442	archaetidylinositol hydrogenase	FALSE	NA	NA	0	1000	0		
+add_lipid3		FALSE	NA	NA	0	1000	0		
+rxn10487	digeranyl-sn-glycerol-1-phospho-3'-sn-glycerol phosphatase	FALSE	NA	NA	0	1000	0		
+rxn10441	archaetidylglycerol hydrogenase	FALSE	NA	NA	0	1000	0		
+R08966	CTP:2,3-bis-O-(geranylgeranyl)-sn-glycerol-1-phosphate cytidylyltransferase	FALSE	NA	NA	0	1000	0		
+R05219	precorrin-6A synthase (deacetylating);	FALSE	NA	NA	0	1000	0		
+R05150	precorrin-6Y:NADP + oxidoreductase	TRUE	NA	NA	-1000	1000	0		
+R05227		FALSE	NA	NA	0	1000	0		
+R02472	2-dehydropantoate 2-reductase	FALSE	NA	NA	-1000	0	0	x[1]	Nmar_0959
+R02471	pantoate 4-dehydrogenase	TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1718
+R09379	4-phosphopantoate---beta-alanine ligase	FALSE	NA	NA	0	1000	0	x[1]	Nmar_1719
+R00375	DNA-directed DNA polymerase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3] | x[4] | x[5])	(Nmar_0002 or Nmar_0642 or Nmar_0948 or Nmar_1056 or Nmar_1794)
+R00376	DNA-directed DNA polymerase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3] | x[4] | x[5])	(Nmar_0002 or Nmar_0642 or Nmar_0948 or Nmar_1056 or Nmar_1794)
+R00377	DNA-directed DNA polymerase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3] | x[4] | x[5])	(Nmar_0002 or Nmar_0642 or Nmar_0948 or Nmar_1056 or Nmar_1794)
+R00378	DNA-directed DNA polymerase	TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3] | x[4] | x[5])	(Nmar_0002 or Nmar_0642 or Nmar_0948 or Nmar_1056 or Nmar_1794)
+R00435	RNA polymerase	FALSE	NA	NA	0	1000	0	(x[1] | x[2] | x[3] | x[4] | x[5] | x[6] | x[7] | x[8] | x[9] | x[10])	(Nmar_0318 or Nmar_0346 or Nmar_0347 or Nmar_0348 or Nmar_0428 or Nmar_1032 or Nmar_1235 or Nmar_1236 or Nmar_1383 or Nmar_1757)
+R01352		TRUE	NA	NA	-1000	1000	0		
+R01082		TRUE	NA	NA	-1000	1000	0		
+R01826	Phosphoenolpyruvate:D-erythrose-4-phosphate	TRUE	NA	NA	-1000	1000	0		
+R03083	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase	FALSE	NA	NA	0	1000	0		
+R10929		FALSE	NA	NA	0	1000	0		
+R10930		FALSE	NA	NA	0	1000	0	x[1]	Nmar_1290
+R10931		FALSE	NA	NA	0	1000	0	x[1]	Nmar_1289
+R10932		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1291
+R10933		FALSE	NA	NA	0	1000	0	x[1]	Nmar_1296
+R00345		TRUE	NA	NA	-1000	1000	0		
+ADD_BIOMASS		FALSE	NA	NA	0	1000	1		
+R00132		TRUE	NA	NA	-1000	1000	0		
+EX_NH3		TRUE	NA	NA	-26.5	1000	0		
+EX_O2		TRUE	NA	NA	-1000	1000	0		
+EX_H2O		TRUE	NA	NA	-1000	1000	0		
+EX_CO2		FALSE	NA	NA	0	1000	0		
+EX_HCO3		TRUE	NA	NA	-1000	1000	0		
+EX_H3PO4		TRUE	NA	NA	-1000	1000	0		
+EX_SO4		TRUE	NA	NA	-1000	1000	0		
+EX_Fe2		TRUE	NA	NA	-1000	1000	0		
+EX_Co2		TRUE	NA	NA	-1000	1000	0		
+nadh_nadph		TRUE	NA	NA	-1000	1000	0		
+EX_NO		FALSE	NA	NA	0	1000	0		
+EX_NO2_		FALSE	NA	NA	0	1000	0		
+EX_n2o		FALSE	NA	NA	0	1000	0		
+rxn08966		FALSE	NA	NA	0	1000	0		
+rxn09008		FALSE	NA	NA	0	1000	0		
+rxn10823		FALSE	NA	NA	0	1000	0		
+EX_CO		TRUE	NA	NA	-1000	1000	0		
+EX_H		TRUE	NA	NA	-1000	1000	0		
+EX_He		FALSE	NA	NA	0	1000	0		
+EX_akg		FALSE	NA	NA	0	0	0		
+rxn05493		FALSE	NA	NA	0	1000	0		
+Trans_NH4		FALSE	NA	NA	0	1000	0	(x[1] | x[2])	(Nmar_0588 or Nmar_1698)
+rxn05616		TRUE	NA	NA	-1000	1000	0	(x[1] | x[2] | x[3] | x[4] | x[5])	(Nmar_1006 or Nmar_1156 or Nmar_1662 or Nmar_1371 or Nmar_1130)
+EX_Mg		FALSE	NA	NA	0	1000	0		
+rxn05468		TRUE	NA	NA	-1000	1000	0		
+rxn05319		FALSE	NA	NA	0	1000	0		
+rxn05467		TRUE	NA	NA	-1000	1000	0		
+rxn10832		FALSE	NA	NA	0	1000	0		
+rxn05145		FALSE	NA	NA	0	1000	0	(x[1] & x[2] & x[3] & x[4] & x[5])	(Nmar_0483 and Nmar_0481 and Nmar_0482 and Nmar_0479 and Nmar_0250)
+rxn05651		FALSE	NA	NA	0	1000	0		
+rxn10474		TRUE	NA	NA	-1000	1000	0	x[1]	Nmar_1006
+rxn10480		TRUE	NA	NA	-1000	1000	0		
+rxn10826		TRUE	NA	NA	-1000	1000	0		
+rxn10963		FALSE	NA	NA	0	1000	0		
+rxn13892		FALSE	NA	NA	0	1000	0	(x[1] | x[2] | x[3])	(Nmar_0250 or Nmar_0873 or Nmar_0875)

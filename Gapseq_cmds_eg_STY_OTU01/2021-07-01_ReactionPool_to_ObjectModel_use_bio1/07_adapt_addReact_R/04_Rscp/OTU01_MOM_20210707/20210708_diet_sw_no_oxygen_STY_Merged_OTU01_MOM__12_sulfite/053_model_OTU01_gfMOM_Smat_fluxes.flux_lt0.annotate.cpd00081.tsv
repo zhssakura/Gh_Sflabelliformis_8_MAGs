@@ -1,0 +1,6 @@
+		sol$fluxes	cpd00081[c0]	cpd00081[e0]
+		met_name	Sulfite[c0]	Sulfite[e0]
+rxn05902_c0	sulphite reductase	-0.0683920829155561	1	0
+EX_cpd00081_e0	Exchange of Sulfite	-100	0	-1
+rxn00378_c0	Sulfite:ferricytochrome-c oxidoreductase	99.9316079170844	-1	0
+rxn10604_c0	sulfate transport exchange via proton symport	100	1	-1

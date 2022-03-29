@@ -1,0 +1,5 @@
+		sol$fluxes	cpd00025[c0]	cpd00025[e0]
+		met_name	Hydrogen peroxide[c0]	Hydrogen peroxide[e0]
+rxn00006_c0	hydrogen-peroxide:hydrogen-peroxide oxidoreductase	0.0016031427791745	-2	0
+rxn12220_c0	coproporphyrinogen oxidase	0.0010687618528209	2	0
+rxn23045_c0	glycine oxidase	0.00106876185268536	1	0

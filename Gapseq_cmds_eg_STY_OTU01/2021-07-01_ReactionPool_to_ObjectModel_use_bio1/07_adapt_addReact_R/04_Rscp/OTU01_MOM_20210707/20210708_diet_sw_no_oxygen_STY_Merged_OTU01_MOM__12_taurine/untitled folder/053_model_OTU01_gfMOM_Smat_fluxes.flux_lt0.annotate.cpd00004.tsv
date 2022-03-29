@@ -1,0 +1,127 @@
+		sol$fluxes	cpd00004[c0]
+		met_name	NADH[c0]
+rxn00069_c0	L-glutamate:NAD+ oxidoreductase (transaminating)	0.417291373812873	1
+rxn00070_c0	glutathione:NAD+ oxidoreductase	1000	1
+rxn00078_c0	ATP:NADH 2'-phosphotransferase	0.00122947150849805	-1
+rxn00083_c0	NADPH:NAD+ oxidoreductase	-1000	1
+rxn00182_c0	L-glutamate:NAD+ oxidoreductase (deaminating)	-1000	1
+rxn00248_c0	(S)-malate:NAD+ oxidoreductase	-803.033497830315	1
+rxn00510_c0	N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase (L-lysine-forming)	-999.89852188221	1
+rxn00543_c0	ethanol:NAD+ oxidoreductase	-1000	1
+rxn00611_c0	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase	-0.0583417979840088	1
+rxn00684_c0	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase	999.988622211997	1
+rxn00719_c0	5,6-Dihydrouracil:NAD+ oxidoreductase	1000	1
+rxn00763_c0	Glycerol:NAD+ oxidoreductase	-1000	1
+rxn00781_c0	D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)	-208.677812113707	1
+rxn00804_c0	L-leucine:NAD+ oxidoreductase (deaminating)	-1000	1
+rxn00834_c0	IMP:NAD+ oxidoreductase	0.0774412044715973	1
+rxn00859_c0	L-Histidinol:NAD+ oxidoreductase	0.028015431291692	2
+rxn00929_c0	L-Proline:NAD+ 5-oxidoreductase	-0.0653693396807115	1
+rxn00957_c0	4-hydroxybenzaldehyde:NAD+ oxidoreductase	1000	1
+rxn00979_c0	glycolaldehyde:NAD+ oxidoreductase	0.00368841452552715	1
+rxn00997_c0	Phenyllactate:NAD+ oxidoreductase	1000	1
+rxn01011_c0	D-Glycerate:NAD+ 2-oxidoreductase	1000	1
+rxn01027_c0	5,6-Dihydrothymine:NAD+ oxidoreductase	1000	1
+rxn01032_c0	Benzaldehyde:NAD+ oxidoreductase	1000	1
+rxn01041_c0	D-xylose:NAD+ 1-oxidoreductase	1000	1
+rxn01045_c0	L-Valine:NAD+ oxidoreductase(deaminating)	-0.125135593103096	1
+rxn01101_c0	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase	0.470928352057172	1
+rxn01108_c0	beta-D-Glucose:NAD+ 1-oxoreductase	1000	1
+rxn01207_c0	4-methyl-2-oxopentanoate:NAD+ oxidoreductase (CoA-mehtylpropanoylating)	0.025929687992857	1
+rxn01241_c0	Dihydrolipoamide:NAD+ oxidoreductase	-0.37266715332828	1
+rxn01276_c0	D-Gluconate:NAD+ 5-oxidoreductase	1000	1
+rxn01286_c0	D-Glyceraldehyde:NAD+ oxidoreductase	8.05503431839411e-14	1
+rxn01288_c0	D-threo-Aldose:NAD+ 1-oxidoreductase	1000	1
+rxn01289_c0	L-Arabinose:NAD+ 1-oxidoreductase	-1000	1
+rxn01290_c0	L-Arabitol:NAD+ 1-oxidoreductase	-1000	1
+rxn01301_c0	L-Homoserine:NAD+ oxidoreductase	-0.207609815357614	1
+rxn01331_c0	D-erythrose 4-phosphate:NAD+ oxidoreductase	0.00122947150850905	1
+rxn01337_c0	3beta-Hydroxyandrost-5-en-17-one:NAD+ 3-oxidoreductase/delta5-delta-4 isomerase	1000	1
+rxn01361_c0	(S)-dihydroorotate:NAD+ oxidoreductase	0.097477986795988	1
+rxn01363_c0	L-quinate:NAD+ 3-oxidoreductase	1000	1
+rxn01474_c0	6-Phospho-2-dehydro-D-gluconate:NAD+ 2-oxidoreductase	1000	1
+rxn01573_c0	L-Isoleucine:NAD+ oxidoreductase(deaminating)	998.28013139164	1
+rxn01582_c0	20alpha-Hydroxy-4-pregnen-3-one:NAD+ 20-oxidoreductase	1000	-1
+rxn01586_c0	Pregnenolone:NAD+ 3-oxidoreductase	-1000	1
+rxn01615_c0	Propane-1,2-diol:NAD+ oxidoreductase	1000	1
+rxn01685_c0	Acetoin:NAD+ oxidoreductase	1000	1
+rxn01692_c0	Estradiol-17beta:NAD+ 17-oxidoreductase	1000	1
+rxn01809_c0	Testosterone delta5-delat4-isomerase	1000	-1
+rxn01835_c0	Lactaldehyde:NAD+ 1-oxidoreductase	-1000	1
+rxn01840_c0	Phenylacetaldehyde:NAD+ oxidoreductase	1000	1
+rxn01937_c0	Indole-3-acetaldehyde:NAD+ oxidoreductase	1000	1
+rxn01938_c0	indole-3-ethanol:NAD+ oxidoreductase	-908.428366077399	1
+rxn01943_c0	4-Hydroxyphenylacetaldehyde:NAD+ oxidoreductase	1000	1
+rxn02038_c0	Cortisol delta5-delat4-isomerase	1000	-1
+rxn02102_c0	(S)-Ureidoglycolate:NAD+ oxidoreductase	1000	1
+rxn02209_c0	(R)-Propane-1,2-diol:NAD+ oxidoreductase	1000	1
+rxn02226_c0	L-2-Aminoadipate-6-semialdehyde:NAD+ 6-oxidoreductase	999.89852188221	1
+rxn02364_c0	3,4-Dihydroxyphenylacetaldehyde:NAD+ oxidoreductase	1000	1
+rxn02383_c0	20alpha-hydroxy steroid dehydrogenase	1000	1
+rxn02385_c0	17alpha-Hydroxypregnenolone:NAD+ 3-oxidoreductase	1000	1
+rxn02392_c0	4-hydroxyphenyllactate:NAD+ oxidoreductase	1000	1
+rxn02393_c0	(R)-3-(4-hydroxyphenyl)lactate:NAD+ 2-oxidoreductase	1000	1
+rxn02774_c0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	0.00122947150851554	1
+rxn02905_c0	21-Hydroxypregnenolone:NAD+ 3-oxidoreductase	1000	1
+rxn02928_c0	2,3,4,5-Tetrahydrodipicolinate:NAD+ oxidoreductase	-0.00429866088060862	1
+rxn02933_c0	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase	999.974070312007	1
+rxn02939_c0	4-phospho-D-erythronate:NAD+ 2-oxidoreductase	0.00122947150850905	1
+rxn03071_c0	L-1-Pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase	-1000	1
+rxn03112_c0	(15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate:NAD+ 15-oxidoreductase	1000	1
+rxn03198_c0	16alpha-Hydroxyandrost-4-ene-3,17-dione delta5-delat4-isomerase	1000	-1
+rxn03200_c0	Estriol:NAD+ 17-oxidoreductase	1000	1
+rxn03239_c0	(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase	-0.025929687992857	1
+rxn03242_c0	(S)-3-hydroxydodecanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1
+rxn03244_c0	(S)-hydroxydecanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1
+rxn03246_c0	(S)-hydroxyoctanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1
+rxn03249_c0	(S)-hydroxyhexanoyl-CoA:NAD+ oxidoreductase	-0.0517216532765588	1
+rxn03255_c0	short-chain dehydrogenase/reductase (SDR) family protein	-1000	1
+rxn03309_c0	short-chain dehydrogenase/reductase (SDR) family protein	-1000	1
+rxn03317_c0	11-Deoxycortisol delta5-delat4-isomerase	1000	-1
+rxn03324_c0	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)	0.101478117790293	1
+rxn03335_c0	3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase	1000	1
+rxn03340_c0	3-Methoxy-4-hydroxyphenylacetaldehyde:NAD+ oxidoreductase	1000	1
+rxn03343_c0	3-Methoxy-4-hydroxyphenylglycolaldehyde:NAD+ oxidoreductase	1000	1
+rxn03622_c0	pimeloyl-CoA:NAD+ oxidoreductase	7.3547938572727e-15	1
+rxn03981_c0	mycothiol:NAD+ oxidoreductase	1000	1
+rxn04662_c0	shikimate:NAD+ 3-oxidoreductase	-1000	1
+rxn04954_c0	5-methyltetrahydrofolate:NAD+ oxidoreductase	-0.0503651412405995	1
+rxn05142_c0	sinapoyl aldehyde:NAD oxidoreductase	1000	1
+rxn05293_c0	2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	0.0472852696866948	-1
+rxn06071_c0	rubredoxin:NAD+ oxidoreductase	-1000	1
+rxn06252_c0	Alditol:NAD+ 1-oxidoreductase	-1000	1
+rxn06525_c0	protein-dithiol:NAD+ oxidoreductase	-1000	1
+rxn06777_c0	(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase	-0.0302283488734656	1
+rxn07482_c0	3-hydroxybenzaldehyde:NAD+ oxidoreductase	-1000	1
+rxn08386_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:1)	1000	-1
+rxn08390_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)	1000	-1
+rxn08392_c0	trans hexadecenoyl-[acp] reductase	1000	-1
+rxn08394_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:1)	1000	-1
+rxn08398_c0	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)	1000	-1
+rxn08972_c0	NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)	-94.8693769616427	-1
+rxn09071_c0	pyridoxine 5'-phosphate oxidase (anaerboic	0.00122947150850905	1
+rxn09896_c0	isoleucine dehydrogenase	-0.0859139892945677	1
+rxn10432_c0	R08198	1000	1
+rxn10770_c0	R08557	1000	1
+rxn11245_c0	RXN-13158.c	0.159158627913545	1
+rxn11551_c0	galactitol:NAD+ 1-oxidoreductase	1000	-1
+rxn11663_c0	4-(phosphonooxy)threonine:NAD oxidoreductase	0.001229471508498	1
+rxn11732_c0	R08198	-1000	1
+rxn11810_c0	carboxyphosphamide:NAD+ oxidoreductase	1000	1
+rxn12681_c0	Vanillin: NAD oxidoreductase (34dhbald)	-1.13686837721616e-13	1
+rxn12781_c0	RXN-8583.c	-1000	1
+rxn12782_c0	RXN-8582.c	-1000	1
+rxn13419_c0	3-hydroxy-2-methylbutyryl-CoA-dehydrogenase	-1000	1
+rxn13727_c0	NADH dehydrogenase (menaquinone-7 & 4 protons)	173.004622124269	-1
+rxn14007_c0	11beta,17beta-dihydroxy-4-androsten-3-one:NAD+ 17-oxidoreductase	-1000	1
+rxn15122_c0	galactitol:NAD+ 1-oxidoreductase	1000	-1
+rxn15123_c0	galactitol:NAD+ 1-oxidoreductase	1000	-1
+rxn15185_c0	D-xylose:NAD+ 1-oxidoreductase	-1000	1
+rxn15238_c0	L-Arabitol:NAD+ 1-oxidoreductase	-1000	1
+rxn15239_c0	L-Arabitol:NAD+ 1-oxidoreductase	-1000	1
+rxn15317_c0	(S)-Propane-1,2-diol:NAD+ oxidoreductase	-1000	1
+rxn15341_c0	Lactaldehyde:NAD+ 1-oxidoreductase	1000	1
+rxn15999_c0	2,4-dichloro-3-oxoadipate:NAD+ oxidoreductase	1000	-2
+rxn38972_c0	RXN-6903.m.chlamyexp.NAD_NADH	-1000	-1
+rxn90001_c0	Butyryl-CoA dehydrogenase (Etf complex)	0.0517216532765087	-2
+rxn08131_c0	4-amino-2-methyl-5-phosphomethylpyrimidine synthetase	0.00122947150849801	1

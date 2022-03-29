@@ -1,0 +1,6 @@
+		sol$fluxes	cpd00086[c0]
+		met_name	Propionyl-CoA[c0]
+rxn00669_c0	Propanoate:CoA ligase (ADP-forming)	-95.1256640077177	1
+rxn00676_c0	acetyl-CoA:propanoyl-CoA 2-C-acetyltransferase	0.025929687992857	-1
+rxn00678_c0	(S)-2-Methyl-3-oxopropanoyl-CoA:pyruvate carboxyltransferase	0.025929687992857	1
+rxn09174_c0	RXN0-268.c	-95.1256640077177	-1

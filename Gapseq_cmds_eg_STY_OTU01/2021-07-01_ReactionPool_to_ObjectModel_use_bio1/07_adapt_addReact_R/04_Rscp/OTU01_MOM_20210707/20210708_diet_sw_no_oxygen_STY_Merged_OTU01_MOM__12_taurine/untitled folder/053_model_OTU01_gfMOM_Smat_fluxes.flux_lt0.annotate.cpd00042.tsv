@@ -1,0 +1,6 @@
+		sol$fluxes	cpd00042[c0]
+		met_name	GSH[c0]
+rxn00070_c0	glutathione:NAD+ oxidoreductase	1000	-2
+rxn00086_c0	glutathione:NADP+ oxidoreductase	-1000	-2
+rxn00350_c0	glutathione gamma-glutamylaminopeptidase	-1.753927024621e-14	-1
+rxn00351_c0	gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)	0.001229471508498	1

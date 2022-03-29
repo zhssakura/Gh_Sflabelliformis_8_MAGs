@@ -1,0 +1,4 @@
+		sol$fluxes	cpd00081[c0]	cpd00081[e0]
+		met_name	Sulfite[c0]	Sulfite[e0]
+rxn03923_c0	acetyl-phosphate:sulfite S-acetyltransferase (acyl-phosphate hydrolysing, 2-oxoethyl-forming)	100	1	0
+rxn05902_c0	sulphite reductase	-100	1	0
