@@ -1,0 +1,29 @@
+# prepare files:
+cmds_200iter_J16_1v1.txt
+# and
+js_header_100G_2h.sh
+
+# Run the following cmd lines on your computer then on Katana:
+######################################################################################################################################################################################
+# [2]
+# on your computer:
+cd /PATH_TO_THIS_ON_YOUR_COMPUTER/mineral_sw_no0_220615_8taxa_BacArena_LxLyLMA_difspeed2_ChemotxNOB_Newdiet4_noH1/mtf_NH3_0.2mM__ChmtxNOB_Newdiet4_noH1_5gridPerH_0.003517/
+## declare an array variable https://stackoverflow.com/questions/8880603/loop-through-an-array-of-strings-in-bash
+declare -a keywords=("J16_1v1"")
+## now loop through the above array
+for i in "${keywords[@]}"
+do
+	BioSAK js_cmds -p "$i" -cmd cmds_200iter_"$i".txt -header js_header_70G_2h.sh -n 2 -auto -force -js_hpc /PATH_TO_THIS_ON_YOUR_KATANA/mineral_sw_no0_220615_8taxa_BacArena_LxLyLMA_difspeed2_ChemotxNOB_Newdiet4_noH1/mtf_NH3_0.2mM__ChmtxNOB_Newdiet4_noH1_5gridPerH_0.003517/"$i"_js/
+done
+
+
+# Log on Katana and run:
+declare -a keywords=("J16_1v1")
+mydir="/PATH_TO_THIS_ON_YOUR_KATANA/mineral_sw_no0_220615_8taxa_BacArena_LxLyLMA_difspeed2_ChemotxNOB_Newdiet4_noH1/mtf_NH3_0.2mM__ChmtxNOB_Newdiet4_noH1_5gridPerH_0.003517/"
+echo $mydir
+
+for i in "${keywords[@]}"
+do
+cd $mydir"$i"_js && qsub "$i"_1.sh
+done
+######################################################################################################################################################################################
